@@ -169,9 +169,9 @@ class ManualWorld(World):
                     self.multiworld.push_precollected(starting_item)
                     pool.remove(starting_item)
 
-        pool = self.add_filler_items(pool, traps)
-
         pool = before_generate_basic(pool, self, self.multiworld, self.player)
+
+        pool = self.add_filler_items(pool, traps)
 
         # need to put all of the items in the pool so we can have a full state for placement
         # then will remove specific item placements below from the overall pool

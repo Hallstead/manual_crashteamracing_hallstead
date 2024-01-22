@@ -1,5 +1,6 @@
 from typing import Optional
 from BaseClasses import MultiWorld
+from .. import Helpers
 
 
 # Use this if you want to override the default behavior of is_option_enabled

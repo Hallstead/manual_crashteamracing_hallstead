@@ -103,9 +103,13 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     if is_category_enabled(multiworld, player, "Hard") is True:
         difficulties += 1
 
-    trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3))
+    max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3))
     multiplier = get_option_value(multiworld, player, "percentage_trophies")
-    trophies = round(trophies * multiplier / 100)
+    trophies = round(max_trophies * multiplier / 100)
+
+    bad_trophies = 300-max_trophies
+    for i in range(bad_trophies):
+        itemNamesToRemove.append("Trophy")
 
     # Get the victory location and place the victory item there
     victory_loc_list = [  # A list of all the victory location names in order
