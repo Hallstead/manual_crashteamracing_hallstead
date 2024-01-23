@@ -7,7 +7,7 @@ from .. import Helpers
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(world: MultiWorld, player: int, category_name: str) -> Optional[bool]:
     if category_name == "Classic" or category_name == "Nitro" or category_name == "Bonus":
-        selection = Helpers.get_option_value(world, player, "select_tracks")
+        selection = Helpers.get_option_value(world, player, "select_race_tracks")
         #if selection == 7:
         #    selection = randint(0, 2)
         #elif selection == 8:
