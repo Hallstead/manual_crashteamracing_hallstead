@@ -87,11 +87,13 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     item_pool.remove(victory_item)
     
     # Get Trophy Information
-    tracks = 0
-    if get_option_value(multiworld, player, "include_single_race") == 1:
-        tracks += 17
+    tracks = 17
+    #if get_option_value(multiworld, player, "include_single_race") == 1:
+    #    tracks += 17
     if is_category_enabled(multiworld, player, "Turbo Track") is True:
         tracks += 1
+    if is_category_enabled(multiworld, player, "Cups") is True:
+        tracks += 4
     
     difficulties = 0
     if is_category_enabled(multiworld, player, "Easy") is True:

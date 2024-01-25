@@ -23,36 +23,15 @@ def before_is_category_enabled(world: MultiWorld, player: int, category_name: st
                 return True
             elif selection == 0 or selection == 1 or selection == 3:
                 return False
-    if category_name == "Turbo Track":
+    if category_name == "TTrack":
         if Helpers.get_option_value(world, player, "include_turbo_track") == 1:
             return True
         else:
             return False
-    """
-    if category_name == "ExtraTrophies1":
-        difficulties = 0
-        if is_category_enabled(world, player, "Easy") is True:
-            difficulties += 1
-        if is_category_enabled(world, player, "Medium") is True:
-            difficulties += 1
-        if is_category_enabled(world, player, "Hard") is True:
-            difficulties += 1
-        if difficulties >= 2:
+    if category_name == "Cups":
+        if Helpers.get_option_value(world, player, "include_cups") == 1:
             return True
         else:
             return False
-    if category_name == "ExtraTrophies2":
-        difficulties = 0
-        if is_category_enabled(world, player, "Easy") is True:
-            difficulties += 1
-        if is_category_enabled(world, player, "Medium") is True:
-            difficulties += 1
-        if is_category_enabled(world, player, "Hard") is True:
-            difficulties += 1
-        if difficulties == 3:
-            return True
-        else:
-            return False
-    """
             
     return None
