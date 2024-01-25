@@ -92,6 +92,9 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     #    tracks += 17
     if is_category_enabled(multiworld, player, "Turbo Track") is True:
         tracks += 1
+    tt = 0
+    if is_category_enabled(multiworld, player, "Time Trial") is True:
+        tt = tracks
     if is_category_enabled(multiworld, player, "Cups") is True:
         tracks += 4
     
@@ -103,9 +106,9 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     if is_category_enabled(multiworld, player, "Hard") is True:
         difficulties += 1
 
-    max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3))
-    multiplier = get_option_value(multiworld, player, "percentage_trophies")
-    trophies = round(max_trophies * multiplier / 100)
+    max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3)) + tt
+    percent = get_option_value(multiworld, player, "percentage_trophies") / 100
+    trophies = round(max_trophies * percent)
 
     bad_trophies = 300-max_trophies
     for i in range(bad_trophies):

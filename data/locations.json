@@ -2495,5 +2495,275 @@
 		"name": "Crash Cup - Hard - 1st",
 		"category": ["Cups", "Classic", "Hard"],
 		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
-	}
+	},
+  {
+    "name": "Crash Cove Time Trial - Unlock N. Tropy",
+    "category": ["Crash Cove", "Classic", "Time Trial"],
+    "requires": "|Crash Cove|"
+  },
+  {
+    "name": "Crash Cove Time Trial - Beat N. Tropy",
+    "category": ["Crash Cove", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Crash Cove| and |Crash Cove - N. Tropy|"
+  },
+  {
+    "name": "Crash Cove Time Trial - Beat N. Oxide",
+    "category": ["Crash Cove", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Crash Cove| and |Crash Cove - N. Tropy| and |Crash Cove - N. Oxide|"
+  },
+  {
+    "name": "Roo's Tubes Time Trial - Unlock N. Tropy",
+    "category": ["Roo's Tubes", "Classic", "Time Trial"],
+    "requires": "|Roo's Tubes|"
+  },
+  {
+    "name": "Roo's Tubes Time Trial - Beat N. Tropy",
+    "category": ["Roo's Tubes", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Roo's Tubes| and |Roo's Tubes - N. Tropy|"
+  },
+  {
+    "name": "Roo's Tubes Time Trial - Beat N. Oxide",
+    "category": ["Roo's Tubes", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Roo's Tubes| and |Roo's Tubes - N. Tropy| and |Roo's Tubes - N. Oxide|"
+  },
+  {
+    "name": "Mystery Caves Time Trial - Unlock N. Tropy",
+    "category": ["Mystery Caves", "Classic", "Time Trial"],
+    "requires": "|Mystery Caves|"
+  },
+  {
+    "name": "Mystery Caves Time Trial - Beat N. Tropy",
+    "category": ["Mystery Caves", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Mystery Caves| and |Mystery Caves - N. Tropy|"
+  },
+  {
+    "name": "Mystery Caves Time Trial - Beat N. Oxide",
+    "category": ["Mystery Caves", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Mystery Caves| and |Mystery Caves - N. Tropy| and |Mystery Caves - N. Oxide|"
+  },
+  {
+    "name": "Sewer Speedway Time Trial - Unlock N. Tropy",
+    "category": ["Sewer Speedway", "Classic", "Time Trial"],
+    "requires": "|Sewer Speedway|"
+  },
+  {
+    "name": "Sewer Speedway Time Trial - Beat N. Tropy",
+    "category": ["Sewer Speedway", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Sewer Speedway| and |Sewer Speedway - N. Tropy|"
+  },
+  {
+    "name": "Sewer Speedway Time Trial - Beat N. Oxide",
+    "category": ["Sewer Speedway", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Sewer Speedway| and |Sewer Speedway - N. Tropy| and |Sewer Speedway - N. Oxide|"
+  },
+  {
+    "name": "Coco Park Time Trial - Unlock N. Tropy",
+    "category": ["Coco Park", "Classic", "Time Trial"],
+    "requires": "|Coco Park|"
+  },
+  {
+    "name": "Coco Park Time Trial - Beat N. Tropy",
+    "category": ["Coco Park", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Coco Park| and |Coco Park - N. Tropy|"
+  },
+  {
+    "name": "Coco Park Time Trial - Beat N. Oxide",
+    "category": ["Coco Park", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Coco Park| and |Coco Park - N. Tropy| and |Coco Park - N. Oxide|"
+  },
+  {
+    "name": "Tiger Temple Time Trial - Unlock N. Tropy",
+    "category": ["Tiger Temple", "Classic", "Time Trial"],
+    "requires": "|Tiger Temple|"
+  },
+  {
+    "name": "Tiger Temple Time Trial - Beat N. Tropy",
+    "category": ["Tiger Temple", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Tiger Temple| and |Tiger Temple - N. Tropy|"
+  },
+  {
+    "name": "Tiger Temple Time Trial - Beat N. Oxide",
+    "category": ["Tiger Temple", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Tiger Temple| and |Tiger Temple - N. Tropy| and |Tiger Temple - N. Oxide|"
+  },
+  {
+    "name": "Papu's Pyramid Time Trial - Unlock N. Tropy",
+    "category": ["Papu's Pyramid", "Classic", "Time Trial"],
+    "requires": "|Papu's Pyramid|"
+  },
+  {
+    "name": "Papu's Pyramid Time Trial - Beat N. Tropy",
+    "category": ["Papu's Pyramid", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Papu's Pyramid| and |Papu's Pyramid - N. Tropy|"
+  },
+  {
+    "name": "Papu's Pyramid Time Trial - Beat N. Oxide",
+    "category": ["Papu's Pyramid", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Papu's Pyramid| and |Papu's Pyramid - N. Tropy| and |Papu's Pyramid - N. Oxide|"
+  },
+  {
+    "name": "Dingo Canyon Time Trial - Unlock N. Tropy",
+    "category": ["Dingo Canyon", "Classic", "Time Trial"],
+    "requires": "|Dingo Canyon|"
+  },
+  {
+    "name": "Dingo Canyon Time Trial - Beat N. Tropy",
+    "category": ["Dingo Canyon", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Dingo Canyon| and |Dingo Canyon - N. Tropy|"
+  },
+  {
+    "name": "Dingo Canyon Time Trial - Beat N. Oxide",
+    "category": ["Dingo Canyon", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Dingo Canyon| and |Dingo Canyon - N. Tropy| and |Dingo Canyon - N. Oxide|"
+  },
+  {
+    "name": "Blizzard Bluff Time Trial - Unlock N. Tropy",
+    "category": ["Blizzard Bluff", "Classic", "Time Trial"],
+    "requires": "|Blizzard Bluff|"
+  },
+  {
+    "name": "Blizzard Bluff Time Trial - Beat N. Tropy",
+    "category": ["Blizzard Bluff", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Blizzard Bluff| and |Blizzard Bluff - N. Tropy|"
+  },
+  {
+    "name": "Blizzard Bluff Time Trial - Beat N. Oxide",
+    "category": ["Blizzard Bluff", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Blizzard Bluff| and |Blizzard Bluff - N. Tropy| and |Blizzard Bluff - N. Oxide|"
+  },
+  {
+    "name": "Dragon Mines Time Trial - Unlock N. Tropy",
+    "category": ["Dragon Mines", "Classic", "Time Trial"],
+    "requires": "|Dragon Mines|"
+  },
+  {
+    "name": "Dragon Mines Time Trial - Beat N. Tropy",
+    "category": ["Dragon Mines", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Dragon Mines| and |Dragon Mines - N. Tropy|"
+  },
+  {
+    "name": "Dragon Mines Time Trial - Beat N. Oxide",
+    "category": ["Dragon Mines", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Dragon Mines| and |Dragon Mines - N. Tropy| and |Dragon Mines - N. Oxide|"
+  },
+  {
+    "name": "Polar Pass Time Trial - Unlock N. Tropy",
+    "category": ["Polar Pass", "Classic", "Time Trial"],
+    "requires": "|Polar Pass|"
+  },
+  {
+    "name": "Polar Pass Time Trial - Beat N. Tropy",
+    "category": ["Polar Pass", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Polar Pass| and |Polar Pass - N. Tropy|"
+  },
+  {
+    "name": "Polar Pass Time Trial - Beat N. Oxide",
+    "category": ["Polar Pass", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Polar Pass| and |Polar Pass - N. Tropy| and |Polar Pass - N. Oxide|"
+  },
+  {
+    "name": "Tiny Arena Time Trial - Unlock N. Tropy",
+    "category": ["Tiny Arena", "Classic", "Time Trial"],
+    "requires": "|Tiny Arena|"
+  },
+  {
+    "name": "Tiny Arena Time Trial - Beat N. Tropy",
+    "category": ["Tiny Arena", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Tiny Arena| and |Tiny Arena - N. Tropy|"
+  },
+  {
+    "name": "Tiny Arena Time Trial - Beat N. Oxide",
+    "category": ["Tiny Arena", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Tiny Arena| and |Tiny Arena - N. Tropy| and |Tiny Arena - N. Oxide|"
+  },
+  {
+    "name": "N. Gin Labs Time Trial - Unlock N. Tropy",
+    "category": ["N. Gin Labs", "Classic", "Time Trial"],
+    "requires": "|N. Gin Labs|"
+  },
+  {
+    "name": "N. Gin Labs Time Trial - Beat N. Tropy",
+    "category": ["N. Gin Labs", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|N. Gin Labs| and |N. Gin Labs - N. Tropy|"
+  },
+  {
+    "name": "N. Gin Labs Time Trial - Beat N. Oxide",
+    "category": ["N. Gin Labs", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|N. Gin Labs| and |N. Gin Labs - N. Tropy| and |N. Gin Labs - N. Oxide|"
+  },
+  {
+    "name": "Cortex Castle Time Trial - Unlock N. Tropy",
+    "category": ["Cortex Castle", "Classic", "Time Trial"],
+    "requires": "|Cortex Castle|"
+  },
+  {
+    "name": "Cortex Castle Time Trial - Beat N. Tropy",
+    "category": ["Cortex Castle", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Cortex Castle| and |Cortex Castle - N. Tropy|"
+  },
+  {
+    "name": "Cortex Castle Time Trial - Beat N. Oxide",
+    "category": ["Cortex Castle", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Cortex Castle| and |Cortex Castle - N. Tropy| and |Cortex Castle - N. Oxide|"
+  },
+  {
+    "name": "Hot Air Skyway Time Trial - Unlock N. Tropy",
+    "category": ["Hot Air Skyway", "Classic", "Time Trial"],
+    "requires": "|Hot Air Skyway|"
+  },
+  {
+    "name": "Hot Air Skyway Time Trial - Beat N. Tropy",
+    "category": ["Hot Air Skyway", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Hot Air Skyway| and |Hot Air Skyway - N. Tropy|"
+  },
+  {
+    "name": "Hot Air Skyway Time Trial - Beat N. Oxide",
+    "category": ["Hot Air Skyway", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Hot Air Skyway| and |Hot Air Skyway - N. Tropy| and |Hot Air Skyway - N. Oxide|"
+  },
+  {
+    "name": "Oxide Station Time Trial - Unlock N. Tropy",
+    "category": ["Oxide Station", "Classic", "Time Trial"],
+    "requires": "|Oxide Station|"
+  },
+  {
+    "name": "Oxide Station Time Trial - Beat N. Tropy",
+    "category": ["Oxide Station", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Oxide Station| and |Oxide Station - N. Tropy|"
+  },
+  {
+    "name": "Oxide Station Time Trial - Beat N. Oxide",
+    "category": ["Oxide Station", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Oxide Station| and |Oxide Station - N. Tropy| and |Oxide Station - N. Oxide|"
+  },
+  {
+    "name": "Slide Coliseum Time Trial - Unlock N. Tropy",
+    "category": ["Slide Coliseum", "Classic", "Time Trial"],
+    "requires": "|Slide Coliseum|"
+  },
+  {
+    "name": "Slide Coliseum Time Trial - Beat N. Tropy",
+    "category": ["Slide Coliseum", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Slide Coliseum| and |Slide Coliseum - N. Tropy|"
+  },
+  {
+    "name": "Slide Coliseum Time Trial - Beat N. Oxide",
+    "category": ["Slide Coliseum", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Slide Coliseum| and |Slide Coliseum - N. Tropy| and |Slide Coliseum - N. Oxide|"
+  },
+  {
+    "name": "Turbo Track Time Trial - Unlock N. Tropy",
+    "category": ["Turbo Track", "Classic", "Time Trial"],
+    "requires": "|Turbo Track|"
+  },
+  {
+    "name": "Turbo Track Time Trial - Beat N. Tropy",
+    "category": ["Turbo Track", "Classic", "Time Trial", "N. Tropy"],
+    "requires": "|Turbo Track| and |Turbo Track - N. Tropy|"
+  },
+  {
+    "name": "Turbo Track Time Trial - Beat N. Oxide",
+    "category": ["Turbo Track", "Classic", "Time Trial", "N. Oxide"],
+    "requires": "|Turbo Track| and |Turbo Track - N. Tropy| and |Turbo Track - N. Oxide|"
+  }
 ]
