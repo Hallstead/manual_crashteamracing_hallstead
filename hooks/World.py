@@ -88,12 +88,10 @@ def before_generate_basic(item_pool: list, world: World, multiworld: MultiWorld,
     
     # Get Trophy Information
     tracks = 0
-    if is_category_enabled(multiworld, player, "Classic") is True:
-        tracks += 18
-    if is_category_enabled(multiworld, player, "Nitro") is True:
-        tracks += 13
-    if is_category_enabled(multiworld, player, "Bonus") is True:
-        tracks += 8
+    if get_option_value(multiworld, player, "include_single_race") == 1:
+        tracks += 17
+    if is_category_enabled(multiworld, player, "Turbo Track") is True:
+        tracks += 1
     
     difficulties = 0
     if is_category_enabled(multiworld, player, "Easy") is True:
