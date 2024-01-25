@@ -1,6 +1,14 @@
 {
-	"undefined": 	{
+	"Arcade Single": 	{
 		"connects_to": [],
 		"requires": []
-}
+	},
+	"Arcade Cup": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Time Trial": 	{
+		"connects_to": [],
+		"requires": []
+	}
 }

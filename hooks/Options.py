@@ -26,27 +26,31 @@ from ..Helpers import is_option_enabled, get_option_value
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class select_tracks(Choice):
+class include_single_race(Choice):
     """
-    Select what track sets are included in the randomizer. If using the PS1 CTR, only use Classic.
-    Classic adds 18 tracks
-    Nitro adds 13 tracks
-    Bonus adds 8 tracks
+    Choose whether to include Single Race arcade mode.
+    At least one game mode must be included to generate.
     """
-    display_name = "Select Track Set(s) to include"
-    option_classic = 0
-    option_nitro = 1
-    option_bonus = 2
-    option_classic_nitro = 3
-    option_classic_bonus = 4
-    option_nitro_bonus = 5
-    option_all = 6
-    default = 0
+    display_name = "Include Single Race Mode?"
+    option_false = 0
+    option_true = 1
+    default = 1
+
+class include_turbo_track(Choice):
+    """
+    Choose whether to include Turbo Track in Single Race arcade mode.
+    To unlock Turbo Track, you can enter the following code at the main menu:
+    Hold L1+R1 and Press Right (x2), Left, Triangle, Right, Down (x2)
+    """
+    display_name = "Include Turbo Track?"
+    option_false = 0
+    option_true = 1
+    default = 1
 
 class select_difficulty(Choice):
     """
     Select what difficulty locations are included in the randomizer.
-    Each difficulty adds three checks per track.
+    Each difficulty adds three checks per race track.
     """
     display_name = "Select Difficulties to include"
     option_easy = 0
@@ -70,9 +74,10 @@ class percentage_trophies(Range):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
-    options["select_tracks"] = select_tracks
-    options["select_difficulty"] = select_difficulty
     options["percentage_trophies"] = percentage_trophies
+    options["select_difficulty"] = select_difficulty
+    options["include_single_race"] = include_single_race
+    options["include_turbo_track"] = include_turbo_track
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
