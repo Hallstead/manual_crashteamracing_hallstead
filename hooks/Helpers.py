@@ -33,5 +33,20 @@ def before_is_category_enabled(world: MultiWorld, player: int, category_name: st
             return True
         else:
             return False
+    if category_name == "Time Trial":
+        if Helpers.get_option_value(world, player, "include_time_trial") == 1:
+            return True
+        else:
+            return False
+    if category_name == "N. Tropy":
+        if Helpers.get_option_value(world, player, "include_time_trial") == 1:
+            if Helpers.get_option_value(world, player, "included_ghosts") >= 1:
+                return True
+        return False
+    if category_name == "N. Oxide":
+        if Helpers.get_option_value(world, player, "include_time_trial") == 1:
+            if Helpers.get_option_value(world, player, "included_ghosts") >= 2:
+                return True
+        return False
             
     return None

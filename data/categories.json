@@ -41,10 +41,16 @@
     "Cup": {
         "hidden": true
     },
-    "TimeTrial": {
-        "hidden": true
+    "Time Trial": {
+        "hidden": false
     },
     "TTrack": {
+        "hidden": true
+    },
+    "N. Tropy": {
+        "hidden": true
+    },
+    "N. Oxide": {
         "hidden": true
     }
 }

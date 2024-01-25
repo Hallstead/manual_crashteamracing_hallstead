@@ -53,7 +53,28 @@ class include_cups(Choice):
     display_name = "Include Cups?"
     option_false = 0
     option_true = 1
-    default = 1
+    default = 0
+
+class include_time_trial(Choice):
+    """
+    Choose whether to include Time Trial ghosts in the locations pool.
+    """
+    display_name = "Include Cups?"
+    option_false = 0
+    option_true = 1
+    default = 0
+
+class included_ghosts(Choice):
+    """
+    Choose whether to include Time Trial ghosts in the locations pool.
+    Each ghost will also include the ghosts before it.
+    This setting does nothing if Time Trial is not included.
+    """
+    display_name = "Select Ghosts"
+    option_none = 0
+    option_n_tropy = 1
+    option_n_oxide = 2
+    default = 2
 
 class select_difficulty(Choice):
     """
@@ -86,6 +107,8 @@ def before_options_defined(options: dict) -> dict:
     options["select_difficulty"] = select_difficulty
     options["include_turbo_track"] = include_turbo_track
     options["include_cups"] = include_cups
+    options["include_time_trial"] = include_time_trial
+    options["included_ghosts"] = included_ghosts
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
