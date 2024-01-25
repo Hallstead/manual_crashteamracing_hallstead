@@ -2228,7 +2228,7 @@
 	},
 	{
 		"name": "Turbo Track - Easy - 5th",
-		"category": ["Turbo Track", "Classic", "Easy"],
+		"category": ["Turbo Track", "Classic", "Easy", "TTrack"],
 		"requires": "|Turbo Track|"
 	},
 	{
@@ -2315,5 +2315,185 @@
 		"name": "Oxide Station - Hard - 1st",
 		"category": ["Oxide Station", "Classic", "Hard"],
 		"requires": "|Oxide Station|"
+	},
+	{
+		"name": "Wumpa Cup - Easy - 5th",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Easy - 3rd",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Easy - 1st",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Medium - 5th",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Medium - 3rd",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Medium - 1st",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Hard - 5th",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Hard - 3rd",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Wumpa Cup - Hard - 1st",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Crash Cove| and |Tiger Temple| and |Blizzard Bluff| and |Coco Park|"
+	},
+	{
+		"name": "Crystal Cup - Easy - 5th",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Easy - 3rd",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Easy - 1st",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Medium - 5th",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Medium - 3rd",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Medium - 1st",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Hard - 5th",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Hard - 3rd",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Crystal Cup - Hard - 1st",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Roo's Tubes| and |Dingo Canyon| and |Dragon Mines| and |Sewer Speedway|"
+	},
+	{
+		"name": "Nitro Cup - Easy - 5th",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Easy - 3rd",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Easy - 1st",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Medium - 5th",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Medium - 3rd",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Medium - 1st",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Hard - 5th",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Hard - 3rd",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Nitro Cup - Hard - 1st",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Mystery Caves| and |Papu's Pyramid| and |Cortex Castle| and |Tiny Arena|"
+	},
+	{
+		"name": "Crash Cup - Easy - 5th",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Easy - 3rd",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Easy - 1st",
+		"category": ["Cups", "Classic", "Easy"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Medium - 5th",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Medium - 3rd",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Medium - 1st",
+		"category": ["Cups", "Classic", "Medium"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Hard - 5th",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Hard - 3rd",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
+	},
+	{
+		"name": "Crash Cup - Hard - 1st",
+		"category": ["Cups", "Classic", "Hard"],
+		"requires": "|Polar Pass| and |N. Gin Labs| and |Hot Air Skyway| and |Slide Coliseum|"
 	}
 ]

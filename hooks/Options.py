@@ -29,7 +29,6 @@ from ..Helpers import is_option_enabled, get_option_value
 class include_single_race(Choice):
     """
     Choose whether to include Single Race arcade mode.
-    At least one game mode must be included to generate.
     """
     display_name = "Include Single Race Mode?"
     option_false = 0
@@ -43,6 +42,15 @@ class include_turbo_track(Choice):
     Hold L1+R1 and Press Right (x2), Left, Triangle, Right, Down (x2)
     """
     display_name = "Include Turbo Track?"
+    option_false = 0
+    option_true = 1
+    default = 1
+
+class include_cups(Choice):
+    """
+    Choose whether to include Cups in the locations pool.
+    """
+    display_name = "Include Cups?"
     option_false = 0
     option_true = 1
     default = 1
@@ -76,8 +84,8 @@ class percentage_trophies(Range):
 def before_options_defined(options: dict) -> dict:
     options["percentage_trophies"] = percentage_trophies
     options["select_difficulty"] = select_difficulty
-    options["include_single_race"] = include_single_race
     options["include_turbo_track"] = include_turbo_track
+    options["include_cups"] = include_cups
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
