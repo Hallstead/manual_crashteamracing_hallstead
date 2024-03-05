@@ -113,6 +113,4 @@ def before_options_defined(options: dict) -> dict:
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
-    #print(options["easy_difficulty_enabled"])
-    #input("Press enter...")
     return options

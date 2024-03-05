@@ -12,7 +12,7 @@ from ..Locations import ManualLocation
 from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
-from ..Helpers import is_option_enabled, get_option_value, is_category_enabled
+from ..Helpers import is_category_enabled, is_option_enabled, get_option_value
 
 
 
