@@ -8,11 +8,11 @@ def is_option_enabled(world: MultiWorld, player: int, name: str) -> bool:
     return get_option_value(world, player, name) > 0
 
 def get_option_value(world: MultiWorld, player: int, name: str) -> Union[int, dict]:
-    option = getattr(world, name, None)
+    option = getattr(world.worlds[player].options, name, None)
     if option is None:
         return 0
 
-    return option[player].value
+    return option.value
 
 def is_category_enabled(world: MultiWorld, player: int, category_name: str) -> bool:
     """Check if a category has been disabled by a yaml option."""

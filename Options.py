@@ -10,7 +10,7 @@ class FillerTrapPercent(Range):
 
 manual_options = before_options_defined({})
 
-#manual_options["filler_traps"] = FillerTrapPercent
+manual_options["filler_traps"] = FillerTrapPercent
 
 for category in category_table:
     for option_name in category_table[category].get("yaml_option", []):
