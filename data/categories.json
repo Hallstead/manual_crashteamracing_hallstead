@@ -38,11 +38,17 @@
     "Single": {
         "hidden": true
     },
-    "Cup": {
+    "Cups": {
+        "hidden": false
+    },
+    "Cups_option": {
         "hidden": true
     },
     "Time Trial": {
         "hidden": false
+    },
+    "Time Trial_option": {
+        "hidden": true
     },
     "TTrack": {
         "hidden": true
