@@ -38,13 +38,13 @@
 	{
 		"count":1,
 		"name": "Mystery Caves - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Mystery Caves - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -56,13 +56,13 @@
 	{
 		"count":1,
 		"name": "Sewer Speedway - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Sewer Speedway - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -74,13 +74,13 @@
 	{
 		"count":1,
 		"name": "Roo's Tubes - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Roo's Tubes - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -92,13 +92,13 @@
 	{
 		"count":1,
 		"name": "Slide Coliseum - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Slide Coliseum - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -110,13 +110,13 @@
 	{
 		"count":1,
 		"name": "Turbo Track - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Turbo Track - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -128,13 +128,13 @@
 	{
 		"count":1,
 		"name": "Coco Park - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Coco Park - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -146,13 +146,13 @@
 	{
 		"count":1,
 		"name": "Tiger Temple - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tiger Temple - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -164,13 +164,13 @@
 	{
 		"count":1,
 		"name": "Papu's Pyramid - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Papu's Pyramid - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -182,13 +182,13 @@
 	{
 		"count":1,
 		"name": "Dingo Canyon - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Dingo Canyon - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"count":1,
 		"name": "Polar Pass - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Polar Pass - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -218,13 +218,13 @@
 	{
 		"count":1,
 		"name": "Tiny Arena - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tiny Arena - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -236,13 +236,13 @@
 	{
 		"count":1,
 		"name": "Dragon Mines - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Dragon Mines - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -254,13 +254,13 @@
 	{
 		"count":1,
 		"name": "Blizzard Bluff - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Blizzard Bluff - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"count":1,
 		"name": "Hot Air Skyway - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Hot Air Skyway - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -290,13 +290,13 @@
 	{
 		"count":1,
 		"name": "Cortex Castle - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Cortex Castle - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -308,13 +308,13 @@
 	{
 		"count":1,
 		"name": "N. Gin Labs - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "N. Gin Labs - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -326,13 +326,37 @@
 	{
 		"count":1,
 		"name": "Oxide Station - N. Tropy",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Tropy"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Oxide Station - N. Oxide",
-		"category": ["Time Trial", "Classic"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wumpa Cup",
+		"category": ["Cups", "Classic"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nitro Cup",
+		"category": ["Cups", "Classic"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crash Cup",
+		"category": ["Cups", "Classic"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crystal Cup",
+		"category": ["Cups", "Classic"],
 		"progression": true
 	}
 ]
