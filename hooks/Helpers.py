@@ -25,7 +25,7 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
                 return True
             elif selection == 0 or selection == 1 or selection == 3:
                 return False
-    if category_name == "TTrack" or category_name == "Turbo Track":
+    if category_name == "TTrack" or category_name == "Track - Turbo Track":
         if Helpers.get_option_value(multiworld, player, "include_turbo_track") == 1:
             return True
         else:
