@@ -2228,7 +2228,7 @@
 	},
 	{
 		"name": "Turbo Track - Easy - 5th",
-		"category": ["Track - Turbo Track", "Classic", "Easy", "TTrack"],
+		"category": ["Track - Turbo Track", "Classic", "Easy"],
 		"requires": "|Turbo Track|"
 	},
 	{

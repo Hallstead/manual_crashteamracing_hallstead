@@ -110,13 +110,13 @@
 	{
 		"count":1,
 		"name": "Turbo Track - N. Tropy",
-		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"category": ["Time Trial", "Classic", "N. Tropy", "TTrack"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Turbo Track - N. Oxide",
-		"category": ["Time Trial", "Classic", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide", "TTrack"],
 		"progression": true
 	},
 	{
