@@ -2319,7 +2319,7 @@
 	{
 		"name": "Wumpa Cup - Easy - 5th",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Wumpa Cup|"
+		"requires": "|{wumpa_cup()}|"
 	},
 	{
 		"name": "Wumpa Cup - Easy - 3rd",

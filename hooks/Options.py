@@ -55,11 +55,21 @@ class include_cups(Choice):
     option_true = 1
     default = 0
 
+class cups_unlock_method(Choice):
+    """
+    Choose the method for unlocking cups.
+    Cup Item adds a cup item to the pool for each cup that unlocks that cup. Having the cup item unlocks the cup regardless of if you have access to its four tracks.
+    Four Tracks uses the four tracks included in each cup to unlock it. Having access to all four tracks unlocks access to the corresponding cup.
+    """
+    display_name = "Cups Unlock Method"
+    option_cup_item = 0
+    option_four_tracks = 1
+
 class include_time_trial(Choice):
     """
     Choose whether to include Time Trial ghosts in the locations pool.
     """
-    display_name = "Include Cups?"
+    display_name = "Include Time Trial?"
     option_false = 0
     option_true = 1
     default = 0
