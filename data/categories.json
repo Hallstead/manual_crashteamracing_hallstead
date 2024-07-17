@@ -44,6 +44,9 @@
     "Cups_option": {
         "hidden": true
     },
+    "Cups Items": {
+        "hidden": true
+    },
     "Time Trial": {
         "hidden": false
     },
