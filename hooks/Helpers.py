@@ -35,6 +35,11 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
             return True
         else:
             return False
+    if category_name == "Cups Items":
+        if Helpers.get_option_value(multiworld, player, "cups_unlock_method") == 1:
+            return True
+        else:
+            return False
     if category_name == "Time Trial" or category_name == "Time Trial_option":
         if Helpers.get_option_value(multiworld, player, "include_time_trial") == 1:
             return True

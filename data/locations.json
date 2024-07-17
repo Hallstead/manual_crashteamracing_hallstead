@@ -2319,182 +2319,182 @@
 	{
 		"name": "Wumpa Cup - Easy - 5th",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|{wumpa_cup()}|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Easy - 3rd",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Easy - 1st",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Medium - 5th",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Medium - 3rd",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Medium - 1st",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Hard - 5th",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Hard - 3rd",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Wumpa Cup - Hard - 1st",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Wumpa Cup|"
+		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Easy - 5th",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Easy - 3rd",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Easy - 1st",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Medium - 5th",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Medium - 3rd",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Medium - 1st",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Hard - 5th",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Hard - 3rd",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crystal Cup - Hard - 1st",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crystal Cup|"
+		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Easy - 5th",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Easy - 3rd",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Easy - 1st",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Medium - 5th",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Medium - 3rd",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Medium - 1st",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Hard - 5th",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Hard - 3rd",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Nitro Cup - Hard - 1st",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Nitro Cup|"
+		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Easy - 5th",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Easy - 3rd",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Easy - 1st",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Easy"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Medium - 5th",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Medium - 3rd",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Medium - 1st",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Medium"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Hard - 5th",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Hard - 3rd",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
 		"name": "Crash Cup - Hard - 1st",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Hard"],
-		"requires": "|Crash Cup|"
+		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
   {
     "name": "Crash Cove Time Trial - Unlock N. Tropy",
