@@ -72,7 +72,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     tracks = 17
     #if get_option_value(multiworld, player, "include_single_race") == 1:
     #    tracks += 17
-    if is_category_enabled(multiworld, player, "Turbo Track") is True:
+    if is_category_enabled(multiworld, player, "Track - Turbo Track") is True:
         tracks += 1
     tt = 0
     if is_category_enabled(multiworld, player, "Time Trial") is True:
