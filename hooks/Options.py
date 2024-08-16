@@ -58,12 +58,13 @@ class include_cups(Choice):
 class cups_unlock_method(Choice):
     """
     Choose the method for unlocking cups.
-    Cup Item adds a cup item to the pool for each cup that unlocks that cup. Having the cup item unlocks the cup regardless of if you have access to its four tracks.
     Four Tracks uses the four tracks included in each cup to unlock it. Having access to all four tracks unlocks access to the corresponding cup.
+    Cup Item adds a cup item to the pool for each cup that unlocks that cup. Having the cup item unlocks the cup regardless of if you have access to its four tracks.
+    This setting does nothing if Cups are not included.
     """
     display_name = "Cups Unlock Method"
-    option_cup_item = 0
-    option_four_tracks = 1
+    option_four_tracks = 0
+    option_cup_item = 1
 
 class include_time_trial(Choice):
     """
@@ -117,6 +118,7 @@ def before_options_defined(options: dict) -> dict:
     options["select_difficulty"] = select_difficulty
     options["include_turbo_track"] = include_turbo_track
     options["include_cups"] = include_cups
+    options["cups_unlock_method"] = cups_unlock_method
     options["include_time_trial"] = include_time_trial
     options["included_ghosts"] = included_ghosts
     return options

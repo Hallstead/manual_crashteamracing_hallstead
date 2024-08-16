@@ -338,25 +338,25 @@
 	{
 		"count":1,
 		"name": "Wumpa Cup",
-		"category": ["Cups", "Classic"],
+		"category": ["Cups", "Cups Items", "Classic"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Nitro Cup",
-		"category": ["Cups", "Classic"],
+		"category": ["Cups", "Cups Items", "Classic"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Crash Cup",
-		"category": ["Cups", "Classic"],
+		"category": ["Cups", "Cups Items", "Classic"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Crystal Cup",
-		"category": ["Cups", "Classic"],
+		"category": ["Cups", "Cups Items", "Classic"],
 		"progression": true
 	}
 ]
