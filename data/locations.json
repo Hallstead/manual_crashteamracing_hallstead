@@ -1507,12 +1507,12 @@
     "category": []
   },
 	{
-		"name": "Crash Cove - Easy - 5th",
+		"name": "Crash Cove - Easy - Top 5",
 		"category": ["Track - Crash Cove", "Classic", "Easy"],
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Crash Cove - Easy - 3rd",
+		"name": "Crash Cove - Easy - Top 3",
 		"category": ["Track - Crash Cove", "Classic", "Easy"],
 		"requires": "|Crash Cove|"
 	},
@@ -1522,12 +1522,12 @@
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Crash Cove - Medium - 5th",
+		"name": "Crash Cove - Medium - Top 5",
 		"category": ["Track - Crash Cove", "Classic", "Medium"],
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Crash Cove - Medium - 3rd",
+		"name": "Crash Cove - Medium - Top 3",
 		"category": ["Track - Crash Cove", "Classic", "Medium"],
 		"requires": "|Crash Cove|"
 	},
@@ -1537,12 +1537,12 @@
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Crash Cove - Hard - 5th",
+		"name": "Crash Cove - Hard - Top 5",
 		"category": ["Track - Crash Cove", "Classic", "Hard"],
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Crash Cove - Hard - 3rd",
+		"name": "Crash Cove - Hard - Top 3",
 		"category": ["Track - Crash Cove", "Classic", "Hard"],
 		"requires": "|Crash Cove|"
 	},
@@ -1552,12 +1552,12 @@
 		"requires": "|Crash Cove|"
 	},
 	{
-		"name": "Tiger Temple - Easy - 5th",
+		"name": "Tiger Temple - Easy - Top 5",
 		"category": ["Track - Tiger Temple", "Classic", "Easy"],
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Tiger Temple - Easy - 3rd",
+		"name": "Tiger Temple - Easy - Top 3",
 		"category": ["Track - Tiger Temple", "Classic", "Easy"],
 		"requires": "|Tiger Temple|"
 	},
@@ -1567,12 +1567,12 @@
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Tiger Temple - Medium - 5th",
+		"name": "Tiger Temple - Medium - Top 5",
 		"category": ["Track - Tiger Temple", "Classic", "Medium"],
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Tiger Temple - Medium - 3rd",
+		"name": "Tiger Temple - Medium - Top 3",
 		"category": ["Track - Tiger Temple", "Classic", "Medium"],
 		"requires": "|Tiger Temple|"
 	},
@@ -1582,12 +1582,12 @@
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Tiger Temple - Hard - 5th",
+		"name": "Tiger Temple - Hard - Top 5",
 		"category": ["Track - Tiger Temple", "Classic", "Hard"],
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Tiger Temple - Hard - 3rd",
+		"name": "Tiger Temple - Hard - Top 3",
 		"category": ["Track - Tiger Temple", "Classic", "Hard"],
 		"requires": "|Tiger Temple|"
 	},
@@ -1597,12 +1597,12 @@
 		"requires": "|Tiger Temple|"
 	},
 	{
-		"name": "Blizzard Bluff - Easy - 5th",
+		"name": "Blizzard Bluff - Easy - Top 5",
 		"category": ["Track - Blizzard Bluff", "Classic", "Easy"],
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Blizzard Bluff - Easy - 3rd",
+		"name": "Blizzard Bluff - Easy - Top 3",
 		"category": ["Track - Blizzard Bluff", "Classic", "Easy"],
 		"requires": "|Blizzard Bluff|"
 	},
@@ -1612,12 +1612,12 @@
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Blizzard Bluff - Medium - 5th",
+		"name": "Blizzard Bluff - Medium - Top 5",
 		"category": ["Track - Blizzard Bluff", "Classic", "Medium"],
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Blizzard Bluff - Medium - 3rd",
+		"name": "Blizzard Bluff - Medium - Top 3",
 		"category": ["Track - Blizzard Bluff", "Classic", "Medium"],
 		"requires": "|Blizzard Bluff|"
 	},
@@ -1627,12 +1627,12 @@
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Blizzard Bluff - Hard - 5th",
+		"name": "Blizzard Bluff - Hard - Top 5",
 		"category": ["Track - Blizzard Bluff", "Classic", "Hard"],
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Blizzard Bluff - Hard - 3rd",
+		"name": "Blizzard Bluff - Hard - Top 3",
 		"category": ["Track - Blizzard Bluff", "Classic", "Hard"],
 		"requires": "|Blizzard Bluff|"
 	},
@@ -1642,12 +1642,12 @@
 		"requires": "|Blizzard Bluff|"
 	},
 	{
-		"name": "Coco Park - Easy - 5th",
+		"name": "Coco Park - Easy - Top 5",
 		"category": ["Track - Coco Park", "Classic", "Easy"],
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Coco Park - Easy - 3rd",
+		"name": "Coco Park - Easy - Top 3",
 		"category": ["Track - Coco Park", "Classic", "Easy"],
 		"requires": "|Coco Park|"
 	},
@@ -1657,12 +1657,12 @@
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Coco Park - Medium - 5th",
+		"name": "Coco Park - Medium - Top 5",
 		"category": ["Track - Coco Park", "Classic", "Medium"],
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Coco Park - Medium - 3rd",
+		"name": "Coco Park - Medium - Top 3",
 		"category": ["Track - Coco Park", "Classic", "Medium"],
 		"requires": "|Coco Park|"
 	},
@@ -1672,12 +1672,12 @@
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Coco Park - Hard - 5th",
+		"name": "Coco Park - Hard - Top 5",
 		"category": ["Track - Coco Park", "Classic", "Hard"],
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Coco Park - Hard - 3rd",
+		"name": "Coco Park - Hard - Top 3",
 		"category": ["Track - Coco Park", "Classic", "Hard"],
 		"requires": "|Coco Park|"
 	},
@@ -1687,12 +1687,12 @@
 		"requires": "|Coco Park|"
 	},
 	{
-		"name": "Roo's Tubes - Easy - 5th",
+		"name": "Roo's Tubes - Easy - Top 5",
 		"category": ["Track - Roo's Tubes", "Classic", "Easy"],
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Roo's Tubes - Easy - 3rd",
+		"name": "Roo's Tubes - Easy - Top 3",
 		"category": ["Track - Roo's Tubes", "Classic", "Easy"],
 		"requires": "|Roo's Tubes|"
 	},
@@ -1702,12 +1702,12 @@
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Roo's Tubes - Medium - 5th",
+		"name": "Roo's Tubes - Medium - Top 5",
 		"category": ["Track - Roo's Tubes", "Classic", "Medium"],
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Roo's Tubes - Medium - 3rd",
+		"name": "Roo's Tubes - Medium - Top 3",
 		"category": ["Track - Roo's Tubes", "Classic", "Medium"],
 		"requires": "|Roo's Tubes|"
 	},
@@ -1717,12 +1717,12 @@
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Roo's Tubes - Hard - 5th",
+		"name": "Roo's Tubes - Hard - Top 5",
 		"category": ["Track - Roo's Tubes", "Classic", "Hard"],
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Roo's Tubes - Hard - 3rd",
+		"name": "Roo's Tubes - Hard - Top 3",
 		"category": ["Track - Roo's Tubes", "Classic", "Hard"],
 		"requires": "|Roo's Tubes|"
 	},
@@ -1732,12 +1732,12 @@
 		"requires": "|Roo's Tubes|"
 	},
 	{
-		"name": "Dingo Canyon - Easy - 5th",
+		"name": "Dingo Canyon - Easy - Top 5",
 		"category": ["Track - Dingo Canyon", "Classic", "Easy"],
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dingo Canyon - Easy - 3rd",
+		"name": "Dingo Canyon - Easy - Top 3",
 		"category": ["Track - Dingo Canyon", "Classic", "Easy"],
 		"requires": "|Dingo Canyon|"
 	},
@@ -1747,12 +1747,12 @@
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dingo Canyon - Medium - 5th",
+		"name": "Dingo Canyon - Medium - Top 5",
 		"category": ["Track - Dingo Canyon", "Classic", "Medium"],
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dingo Canyon - Medium - 3rd",
+		"name": "Dingo Canyon - Medium - Top 3",
 		"category": ["Track - Dingo Canyon", "Classic", "Medium"],
 		"requires": "|Dingo Canyon|"
 	},
@@ -1762,12 +1762,12 @@
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dingo Canyon - Hard - 5th",
+		"name": "Dingo Canyon - Hard - Top 5",
 		"category": ["Track - Dingo Canyon", "Classic", "Hard"],
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dingo Canyon - Hard - 3rd",
+		"name": "Dingo Canyon - Hard - Top 3",
 		"category": ["Track - Dingo Canyon", "Classic", "Hard"],
 		"requires": "|Dingo Canyon|"
 	},
@@ -1777,12 +1777,12 @@
 		"requires": "|Dingo Canyon|"
 	},
 	{
-		"name": "Dragon Mines - Easy - 5th",
+		"name": "Dragon Mines - Easy - Top 5",
 		"category": ["Track - Dragon Mines", "Classic", "Easy"],
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Dragon Mines - Easy - 3rd",
+		"name": "Dragon Mines - Easy - Top 3",
 		"category": ["Track - Dragon Mines", "Classic", "Easy"],
 		"requires": "|Dragon Mines|"
 	},
@@ -1792,12 +1792,12 @@
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Dragon Mines - Medium - 5th",
+		"name": "Dragon Mines - Medium - Top 5",
 		"category": ["Track - Dragon Mines", "Classic", "Medium"],
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Dragon Mines - Medium - 3rd",
+		"name": "Dragon Mines - Medium - Top 3",
 		"category": ["Track - Dragon Mines", "Classic", "Medium"],
 		"requires": "|Dragon Mines|"
 	},
@@ -1807,12 +1807,12 @@
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Dragon Mines - Hard - 5th",
+		"name": "Dragon Mines - Hard - Top 5",
 		"category": ["Track - Dragon Mines", "Classic", "Hard"],
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Dragon Mines - Hard - 3rd",
+		"name": "Dragon Mines - Hard - Top 3",
 		"category": ["Track - Dragon Mines", "Classic", "Hard"],
 		"requires": "|Dragon Mines|"
 	},
@@ -1822,12 +1822,12 @@
 		"requires": "|Dragon Mines|"
 	},
 	{
-		"name": "Sewer Speedway - Easy - 5th",
+		"name": "Sewer Speedway - Easy - Top 5",
 		"category": ["Track - Sewer Speedway", "Classic", "Easy"],
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Sewer Speedway - Easy - 3rd",
+		"name": "Sewer Speedway - Easy - Top 3",
 		"category": ["Track - Sewer Speedway", "Classic", "Easy"],
 		"requires": "|Sewer Speedway|"
 	},
@@ -1837,12 +1837,12 @@
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Sewer Speedway - Medium - 5th",
+		"name": "Sewer Speedway - Medium - Top 5",
 		"category": ["Track - Sewer Speedway", "Classic", "Medium"],
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Sewer Speedway - Medium - 3rd",
+		"name": "Sewer Speedway - Medium - Top 3",
 		"category": ["Track - Sewer Speedway", "Classic", "Medium"],
 		"requires": "|Sewer Speedway|"
 	},
@@ -1852,12 +1852,12 @@
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Sewer Speedway - Hard - 5th",
+		"name": "Sewer Speedway - Hard - Top 5",
 		"category": ["Track - Sewer Speedway", "Classic", "Hard"],
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Sewer Speedway - Hard - 3rd",
+		"name": "Sewer Speedway - Hard - Top 3",
 		"category": ["Track - Sewer Speedway", "Classic", "Hard"],
 		"requires": "|Sewer Speedway|"
 	},
@@ -1867,12 +1867,12 @@
 		"requires": "|Sewer Speedway|"
 	},
 	{
-		"name": "Mystery Caves - Easy - 5th",
+		"name": "Mystery Caves - Easy - Top 5",
 		"category": ["Track - Mystery Caves", "Classic", "Easy"],
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Mystery Caves - Easy - 3rd",
+		"name": "Mystery Caves - Easy - Top 3",
 		"category": ["Track - Mystery Caves", "Classic", "Easy"],
 		"requires": "|Mystery Caves|"
 	},
@@ -1882,12 +1882,12 @@
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Mystery Caves - Medium - 5th",
+		"name": "Mystery Caves - Medium - Top 5",
 		"category": ["Track - Mystery Caves", "Classic", "Medium"],
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Mystery Caves - Medium - 3rd",
+		"name": "Mystery Caves - Medium - Top 3",
 		"category": ["Track - Mystery Caves", "Classic", "Medium"],
 		"requires": "|Mystery Caves|"
 	},
@@ -1897,12 +1897,12 @@
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Mystery Caves - Hard - 5th",
+		"name": "Mystery Caves - Hard - Top 5",
 		"category": ["Track - Mystery Caves", "Classic", "Hard"],
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Mystery Caves - Hard - 3rd",
+		"name": "Mystery Caves - Hard - Top 3",
 		"category": ["Track - Mystery Caves", "Classic", "Hard"],
 		"requires": "|Mystery Caves|"
 	},
@@ -1912,12 +1912,12 @@
 		"requires": "|Mystery Caves|"
 	},
 	{
-		"name": "Papu's Pyramid - Easy - 5th",
+		"name": "Papu's Pyramid - Easy - Top 5",
 		"category": ["Track - Papu's Pyramid", "Classic", "Easy"],
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Papu's Pyramid - Easy - 3rd",
+		"name": "Papu's Pyramid - Easy - Top 3",
 		"category": ["Track - Papu's Pyramid", "Classic", "Easy"],
 		"requires": "|Papu's Pyramid|"
 	},
@@ -1927,12 +1927,12 @@
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Papu's Pyramid - Medium - 5th",
+		"name": "Papu's Pyramid - Medium - Top 5",
 		"category": ["Track - Papu's Pyramid", "Classic", "Medium"],
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Papu's Pyramid - Medium - 3rd",
+		"name": "Papu's Pyramid - Medium - Top 3",
 		"category": ["Track - Papu's Pyramid", "Classic", "Medium"],
 		"requires": "|Papu's Pyramid|"
 	},
@@ -1942,12 +1942,12 @@
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Papu's Pyramid - Hard - 5th",
+		"name": "Papu's Pyramid - Hard - Top 5",
 		"category": ["Track - Papu's Pyramid", "Classic", "Hard"],
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Papu's Pyramid - Hard - 3rd",
+		"name": "Papu's Pyramid - Hard - Top 3",
 		"category": ["Track - Papu's Pyramid", "Classic", "Hard"],
 		"requires": "|Papu's Pyramid|"
 	},
@@ -1957,12 +1957,12 @@
 		"requires": "|Papu's Pyramid|"
 	},
 	{
-		"name": "Cortex Castle - Easy - 5th",
+		"name": "Cortex Castle - Easy - Top 5",
 		"category": ["Track - Cortex Castle", "Classic", "Easy"],
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Cortex Castle - Easy - 3rd",
+		"name": "Cortex Castle - Easy - Top 3",
 		"category": ["Track - Cortex Castle", "Classic", "Easy"],
 		"requires": "|Cortex Castle|"
 	},
@@ -1972,12 +1972,12 @@
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Cortex Castle - Medium - 5th",
+		"name": "Cortex Castle - Medium - Top 5",
 		"category": ["Track - Cortex Castle", "Classic", "Medium"],
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Cortex Castle - Medium - 3rd",
+		"name": "Cortex Castle - Medium - Top 3",
 		"category": ["Track - Cortex Castle", "Classic", "Medium"],
 		"requires": "|Cortex Castle|"
 	},
@@ -1987,12 +1987,12 @@
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Cortex Castle - Hard - 5th",
+		"name": "Cortex Castle - Hard - Top 5",
 		"category": ["Track - Cortex Castle", "Classic", "Hard"],
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Cortex Castle - Hard - 3rd",
+		"name": "Cortex Castle - Hard - Top 3",
 		"category": ["Track - Cortex Castle", "Classic", "Hard"],
 		"requires": "|Cortex Castle|"
 	},
@@ -2002,12 +2002,12 @@
 		"requires": "|Cortex Castle|"
 	},
 	{
-		"name": "Tiny Arena - Easy - 5th",
+		"name": "Tiny Arena - Easy - Top 5",
 		"category": ["Track - Tiny Arena", "Classic", "Easy"],
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Tiny Arena - Easy - 3rd",
+		"name": "Tiny Arena - Easy - Top 3",
 		"category": ["Track - Tiny Arena", "Classic", "Easy"],
 		"requires": "|Tiny Arena|"
 	},
@@ -2017,12 +2017,12 @@
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Tiny Arena - Medium - 5th",
+		"name": "Tiny Arena - Medium - Top 5",
 		"category": ["Track - Tiny Arena", "Classic", "Medium"],
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Tiny Arena - Medium - 3rd",
+		"name": "Tiny Arena - Medium - Top 3",
 		"category": ["Track - Tiny Arena", "Classic", "Medium"],
 		"requires": "|Tiny Arena|"
 	},
@@ -2032,12 +2032,12 @@
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Tiny Arena - Hard - 5th",
+		"name": "Tiny Arena - Hard - Top 5",
 		"category": ["Track - Tiny Arena", "Classic", "Hard"],
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Tiny Arena - Hard - 3rd",
+		"name": "Tiny Arena - Hard - Top 3",
 		"category": ["Track - Tiny Arena", "Classic", "Hard"],
 		"requires": "|Tiny Arena|"
 	},
@@ -2047,12 +2047,12 @@
 		"requires": "|Tiny Arena|"
 	},
 	{
-		"name": "Polar Pass - Easy - 5th",
+		"name": "Polar Pass - Easy - Top 5",
 		"category": ["Track - Polar Pass", "Classic", "Easy"],
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "Polar Pass - Easy - 3rd",
+		"name": "Polar Pass - Easy - Top 3",
 		"category": ["Track - Polar Pass", "Classic", "Easy"],
 		"requires": "|Polar Pass|"
 	},
@@ -2062,12 +2062,12 @@
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "Polar Pass - Medium - 5th",
+		"name": "Polar Pass - Medium - Top 5",
 		"category": ["Track - Polar Pass", "Classic", "Medium"],
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "Polar Pass - Medium - 3rd",
+		"name": "Polar Pass - Medium - Top 3",
 		"category": ["Track - Polar Pass", "Classic", "Medium"],
 		"requires": "|Polar Pass|"
 	},
@@ -2077,12 +2077,12 @@
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "Polar Pass - Hard - 5th",
+		"name": "Polar Pass - Hard - Top 5",
 		"category": ["Track - Polar Pass", "Classic", "Hard"],
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "Polar Pass - Hard - 3rd",
+		"name": "Polar Pass - Hard - Top 3",
 		"category": ["Track - Polar Pass", "Classic", "Hard"],
 		"requires": "|Polar Pass|"
 	},
@@ -2092,12 +2092,12 @@
 		"requires": "|Polar Pass|"
 	},
 	{
-		"name": "N. Gin Labs - Easy - 5th",
+		"name": "N. Gin Labs - Easy - Top 5",
 		"category": ["Track - N. Gin Labs", "Classic", "Easy"],
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "N. Gin Labs - Easy - 3rd",
+		"name": "N. Gin Labs - Easy - Top 3",
 		"category": ["Track - N. Gin Labs", "Classic", "Easy"],
 		"requires": "|N. Gin Labs|"
 	},
@@ -2107,12 +2107,12 @@
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "N. Gin Labs - Medium - 5th",
+		"name": "N. Gin Labs - Medium - Top 5",
 		"category": ["Track - N. Gin Labs", "Classic", "Medium"],
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "N. Gin Labs - Medium - 3rd",
+		"name": "N. Gin Labs - Medium - Top 3",
 		"category": ["Track - N. Gin Labs", "Classic", "Medium"],
 		"requires": "|N. Gin Labs|"
 	},
@@ -2122,12 +2122,12 @@
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "N. Gin Labs - Hard - 5th",
+		"name": "N. Gin Labs - Hard - Top 5",
 		"category": ["Track - N. Gin Labs", "Classic", "Hard"],
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "N. Gin Labs - Hard - 3rd",
+		"name": "N. Gin Labs - Hard - Top 3",
 		"category": ["Track - N. Gin Labs", "Classic", "Hard"],
 		"requires": "|N. Gin Labs|"
 	},
@@ -2137,12 +2137,12 @@
 		"requires": "|N. Gin Labs|"
 	},
 	{
-		"name": "Hot Air Skyway - Easy - 5th",
+		"name": "Hot Air Skyway - Easy - Top 5",
 		"category": ["Track - Hot Air Skyway", "Classic", "Easy"],
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Hot Air Skyway - Easy - 3rd",
+		"name": "Hot Air Skyway - Easy - Top 3",
 		"category": ["Track - Hot Air Skyway", "Classic", "Easy"],
 		"requires": "|Hot Air Skyway|"
 	},
@@ -2152,12 +2152,12 @@
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Hot Air Skyway - Medium - 5th",
+		"name": "Hot Air Skyway - Medium - Top 5",
 		"category": ["Track - Hot Air Skyway", "Classic", "Medium"],
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Hot Air Skyway - Medium - 3rd",
+		"name": "Hot Air Skyway - Medium - Top 3",
 		"category": ["Track - Hot Air Skyway", "Classic", "Medium"],
 		"requires": "|Hot Air Skyway|"
 	},
@@ -2167,12 +2167,12 @@
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Hot Air Skyway - Hard - 5th",
+		"name": "Hot Air Skyway - Hard - Top 5",
 		"category": ["Track - Hot Air Skyway", "Classic", "Hard"],
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Hot Air Skyway - Hard - 3rd",
+		"name": "Hot Air Skyway - Hard - Top 3",
 		"category": ["Track - Hot Air Skyway", "Classic", "Hard"],
 		"requires": "|Hot Air Skyway|"
 	},
@@ -2182,12 +2182,12 @@
 		"requires": "|Hot Air Skyway|"
 	},
 	{
-		"name": "Slide Coliseum - Easy - 5th",
+		"name": "Slide Coliseum - Easy - Top 5",
 		"category": ["Track - Slide Coliseum", "Classic", "Easy"],
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Slide Coliseum - Easy - 3rd",
+		"name": "Slide Coliseum - Easy - Top 3",
 		"category": ["Track - Slide Coliseum", "Classic", "Easy"],
 		"requires": "|Slide Coliseum|"
 	},
@@ -2197,12 +2197,12 @@
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Slide Coliseum - Medium - 5th",
+		"name": "Slide Coliseum - Medium - Top 5",
 		"category": ["Track - Slide Coliseum", "Classic", "Medium"],
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Slide Coliseum - Medium - 3rd",
+		"name": "Slide Coliseum - Medium - Top 3",
 		"category": ["Track - Slide Coliseum", "Classic", "Medium"],
 		"requires": "|Slide Coliseum|"
 	},
@@ -2212,12 +2212,12 @@
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Slide Coliseum - Hard - 5th",
+		"name": "Slide Coliseum - Hard - Top 5",
 		"category": ["Track - Slide Coliseum", "Classic", "Hard"],
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Slide Coliseum - Hard - 3rd",
+		"name": "Slide Coliseum - Hard - Top 3",
 		"category": ["Track - Slide Coliseum", "Classic", "Hard"],
 		"requires": "|Slide Coliseum|"
 	},
@@ -2227,12 +2227,12 @@
 		"requires": "|Slide Coliseum|"
 	},
 	{
-		"name": "Turbo Track - Easy - 5th",
+		"name": "Turbo Track - Easy - Top 5",
 		"category": ["Track - Turbo Track", "Classic", "Easy"],
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Turbo Track - Easy - 3rd",
+		"name": "Turbo Track - Easy - Top 3",
 		"category": ["Track - Turbo Track", "Classic", "Easy"],
 		"requires": "|Turbo Track|"
 	},
@@ -2242,12 +2242,12 @@
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Turbo Track - Medium - 5th",
+		"name": "Turbo Track - Medium - Top 5",
 		"category": ["Track - Turbo Track", "Classic", "Medium"],
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Turbo Track - Medium - 3rd",
+		"name": "Turbo Track - Medium - Top 3",
 		"category": ["Track - Turbo Track", "Classic", "Medium"],
 		"requires": "|Turbo Track|"
 	},
@@ -2257,12 +2257,12 @@
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Turbo Track - Hard - 5th",
+		"name": "Turbo Track - Hard - Top 5",
 		"category": ["Track - Turbo Track", "Classic", "Hard"],
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Turbo Track - Hard - 3rd",
+		"name": "Turbo Track - Hard - Top 3",
 		"category": ["Track - Turbo Track", "Classic", "Hard"],
 		"requires": "|Turbo Track|"
 	},
@@ -2272,12 +2272,12 @@
 		"requires": "|Turbo Track|"
 	},
 	{
-		"name": "Oxide Station - Easy - 5th",
+		"name": "Oxide Station - Easy - Top 5",
 		"category": ["Track - Oxide Station", "Classic", "Easy"],
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Oxide Station - Easy - 3rd",
+		"name": "Oxide Station - Easy - Top 3",
 		"category": ["Track - Oxide Station", "Classic", "Easy"],
 		"requires": "|Oxide Station|"
 	},
@@ -2287,12 +2287,12 @@
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Oxide Station - Medium - 5th",
+		"name": "Oxide Station - Medium - Top 5",
 		"category": ["Track - Oxide Station", "Classic", "Medium"],
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Oxide Station - Medium - 3rd",
+		"name": "Oxide Station - Medium - Top 3",
 		"category": ["Track - Oxide Station", "Classic", "Medium"],
 		"requires": "|Oxide Station|"
 	},
@@ -2302,12 +2302,12 @@
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Oxide Station - Hard - 5th",
+		"name": "Oxide Station - Hard - Top 5",
 		"category": ["Track - Oxide Station", "Classic", "Hard"],
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Oxide Station - Hard - 3rd",
+		"name": "Oxide Station - Hard - Top 3",
 		"category": ["Track - Oxide Station", "Classic", "Hard"],
 		"requires": "|Oxide Station|"
 	},
@@ -2317,12 +2317,12 @@
 		"requires": "|Oxide Station|"
 	},
 	{
-		"name": "Wumpa Cup - Easy - 5th",
+		"name": "Wumpa Cup - Easy - Top 5",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Wumpa Cup - Easy - 3rd",
+		"name": "Wumpa Cup - Easy - Top 3",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2332,12 +2332,12 @@
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Wumpa Cup - Medium - 5th",
+		"name": "Wumpa Cup - Medium - Top 5",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Wumpa Cup - Medium - 3rd",
+		"name": "Wumpa Cup - Medium - Top 3",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2347,12 +2347,12 @@
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Wumpa Cup - Hard - 5th",
+		"name": "Wumpa Cup - Hard - Top 5",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Wumpa Cup - Hard - 3rd",
+		"name": "Wumpa Cup - Hard - Top 3",
 		"category": ["Cup - Wumpa Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2362,12 +2362,12 @@
 		"requires": "(|Crash Cove| AND |Tiger Temple| AND |Blizzard Bluff| AND |Coco Park| AND {YamlDisabled(cups_unlock_method)}) OR (|Wumpa Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Easy - 5th",
+		"name": "Crystal Cup - Easy - Top 5",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Easy - 3rd",
+		"name": "Crystal Cup - Easy - Top 3",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2377,12 +2377,12 @@
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Medium - 5th",
+		"name": "Crystal Cup - Medium - Top 5",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Medium - 3rd",
+		"name": "Crystal Cup - Medium - Top 3",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2392,12 +2392,12 @@
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Hard - 5th",
+		"name": "Crystal Cup - Hard - Top 5",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crystal Cup - Hard - 3rd",
+		"name": "Crystal Cup - Hard - Top 3",
 		"category": ["Cup - Crystal Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2407,12 +2407,12 @@
 		"requires": "(|Roo's Tubes| AND |Dingo Canyon| AND |Dragon Mines| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Crystal Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Easy - 5th",
+		"name": "Nitro Cup - Easy - Top 5",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Easy - 3rd",
+		"name": "Nitro Cup - Easy - Top 3",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2422,12 +2422,12 @@
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Medium - 5th",
+		"name": "Nitro Cup - Medium - Top 5",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Medium - 3rd",
+		"name": "Nitro Cup - Medium - Top 3",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2437,12 +2437,12 @@
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Hard - 5th",
+		"name": "Nitro Cup - Hard - Top 5",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Nitro Cup - Hard - 3rd",
+		"name": "Nitro Cup - Hard - Top 3",
 		"category": ["Cup - Nitro Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2452,12 +2452,12 @@
 		"requires": "(|Mystery Caves| AND |Papu's Pyramid| AND |Cortex Castle| AND |Sewer Speedway| AND {YamlDisabled(cups_unlock_method)}) OR (|Nitro Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Easy - 5th",
+		"name": "Crash Cup - Easy - Top 5",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Easy - 3rd",
+		"name": "Crash Cup - Easy - Top 3",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Easy"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2467,12 +2467,12 @@
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Medium - 5th",
+		"name": "Crash Cup - Medium - Top 5",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Medium - 3rd",
+		"name": "Crash Cup - Medium - Top 3",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Medium"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2482,12 +2482,12 @@
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Hard - 5th",
+		"name": "Crash Cup - Hard - Top 5",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
 	{
-		"name": "Crash Cup - Hard - 3rd",
+		"name": "Crash Cup - Hard - Top 3",
 		"category": ["Cup - Crash Cup", "Cups_option", "Classic", "Hard"],
 		"requires": "(|Polar Pass| AND |N. Gin Labs| AND |Hot Air Skyway| AND |Slide Coliseum| AND {YamlDisabled(cups_unlock_method)}) OR (|Crash Cup| AND {YamlEnabled(cups_unlock_method)})"
 	},
@@ -2504,12 +2504,12 @@
   {
     "name": "Crash Cove Time Trial - Beat N. Tropy",
     "category": ["Track - Crash Cove", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Crash Cove| and |Crash Cove - N. Tropy|"
+    "requires": "|Crash Cove| and |Crash Cove - Progressive Ghost:1|"
   },
   {
     "name": "Crash Cove Time Trial - Beat N. Oxide",
     "category": ["Track - Crash Cove", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Crash Cove| and |Crash Cove - N. Tropy| and |Crash Cove - N. Oxide|"
+    "requires": "|Crash Cove| and |Crash Cove - Progressive Ghost:2|"
   },
   {
     "name": "Roo's Tubes Time Trial - Unlock N. Tropy",
@@ -2519,12 +2519,12 @@
   {
     "name": "Roo's Tubes Time Trial - Beat N. Tropy",
     "category": ["Track - Roo's Tubes", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Roo's Tubes| and |Roo's Tubes - N. Tropy|"
+    "requires": "|Roo's Tubes| and |Roo's Tubes - Progressive Ghost:1|"
   },
   {
     "name": "Roo's Tubes Time Trial - Beat N. Oxide",
     "category": ["Track - Roo's Tubes", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Roo's Tubes| and |Roo's Tubes - N. Tropy| and |Roo's Tubes - N. Oxide|"
+    "requires": "|Roo's Tubes| and |Roo's Tubes - Progressive Ghost:2|"
   },
   {
     "name": "Mystery Caves Time Trial - Unlock N. Tropy",
@@ -2534,12 +2534,12 @@
   {
     "name": "Mystery Caves Time Trial - Beat N. Tropy",
     "category": ["Track - Mystery Caves", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Mystery Caves| and |Mystery Caves - N. Tropy|"
+    "requires": "|Mystery Caves| and |Mystery Caves - Progressive Ghost:1|"
   },
   {
     "name": "Mystery Caves Time Trial - Beat N. Oxide",
     "category": ["Track - Mystery Caves", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Mystery Caves| and |Mystery Caves - N. Tropy| and |Mystery Caves - N. Oxide|"
+    "requires": "|Mystery Caves| and |Mystery Caves - Progressive Ghost:2|"
   },
   {
     "name": "Sewer Speedway Time Trial - Unlock N. Tropy",
@@ -2549,12 +2549,12 @@
   {
     "name": "Sewer Speedway Time Trial - Beat N. Tropy",
     "category": ["Track - Sewer Speedway", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Sewer Speedway| and |Sewer Speedway - N. Tropy|"
+    "requires": "|Sewer Speedway| and |Sewer Speedway - Progressive Ghost:1|"
   },
   {
     "name": "Sewer Speedway Time Trial - Beat N. Oxide",
     "category": ["Track - Sewer Speedway", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Sewer Speedway| and |Sewer Speedway - N. Tropy| and |Sewer Speedway - N. Oxide|"
+    "requires": "|Sewer Speedway| and |Sewer Speedway - Progressive Ghost:2|"
   },
   {
     "name": "Coco Park Time Trial - Unlock N. Tropy",
@@ -2564,12 +2564,12 @@
   {
     "name": "Coco Park Time Trial - Beat N. Tropy",
     "category": ["Track - Coco Park", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Coco Park| and |Coco Park - N. Tropy|"
+    "requires": "|Coco Park| and |Coco Park - Progressive Ghost:1|"
   },
   {
     "name": "Coco Park Time Trial - Beat N. Oxide",
     "category": ["Track - Coco Park", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Coco Park| and |Coco Park - N. Tropy| and |Coco Park - N. Oxide|"
+    "requires": "|Coco Park| and |Coco Park - Progressive Ghost:2|"
   },
   {
     "name": "Tiger Temple Time Trial - Unlock N. Tropy",
@@ -2579,12 +2579,12 @@
   {
     "name": "Tiger Temple Time Trial - Beat N. Tropy",
     "category": ["Track - Tiger Temple", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Tiger Temple| and |Tiger Temple - N. Tropy|"
+    "requires": "|Tiger Temple| and |Tiger Temple - Progressive Ghost:1|"
   },
   {
     "name": "Tiger Temple Time Trial - Beat N. Oxide",
     "category": ["Track - Tiger Temple", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Tiger Temple| and |Tiger Temple - N. Tropy| and |Tiger Temple - N. Oxide|"
+    "requires": "|Tiger Temple| and |Tiger Temple - Progressive Ghost:2|"
   },
   {
     "name": "Papu's Pyramid Time Trial - Unlock N. Tropy",
@@ -2594,12 +2594,12 @@
   {
     "name": "Papu's Pyramid Time Trial - Beat N. Tropy",
     "category": ["Track - Papu's Pyramid", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Papu's Pyramid| and |Papu's Pyramid - N. Tropy|"
+    "requires": "|Papu's Pyramid| and |Papu's Pyramid - Progressive Ghost:1|"
   },
   {
     "name": "Papu's Pyramid Time Trial - Beat N. Oxide",
     "category": ["Track - Papu's Pyramid", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Papu's Pyramid| and |Papu's Pyramid - N. Tropy| and |Papu's Pyramid - N. Oxide|"
+    "requires": "|Papu's Pyramid| and |Papu's Pyramid - Progressive Ghost:2|"
   },
   {
     "name": "Dingo Canyon Time Trial - Unlock N. Tropy",
@@ -2609,12 +2609,12 @@
   {
     "name": "Dingo Canyon Time Trial - Beat N. Tropy",
     "category": ["Track - Dingo Canyon", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Dingo Canyon| and |Dingo Canyon - N. Tropy|"
+    "requires": "|Dingo Canyon| and |Dingo Canyon - Progressive Ghost:1|"
   },
   {
     "name": "Dingo Canyon Time Trial - Beat N. Oxide",
     "category": ["Track - Dingo Canyon", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Dingo Canyon| and |Dingo Canyon - N. Tropy| and |Dingo Canyon - N. Oxide|"
+    "requires": "|Dingo Canyon| and |Dingo Canyon - Progressive Ghost:2|"
   },
   {
     "name": "Blizzard Bluff Time Trial - Unlock N. Tropy",
@@ -2624,12 +2624,12 @@
   {
     "name": "Blizzard Bluff Time Trial - Beat N. Tropy",
     "category": ["Track - Blizzard Bluff", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Blizzard Bluff| and |Blizzard Bluff - N. Tropy|"
+    "requires": "|Blizzard Bluff| and |Blizzard Bluff - Progressive Ghost:1|"
   },
   {
     "name": "Blizzard Bluff Time Trial - Beat N. Oxide",
     "category": ["Track - Blizzard Bluff", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Blizzard Bluff| and |Blizzard Bluff - N. Tropy| and |Blizzard Bluff - N. Oxide|"
+    "requires": "|Blizzard Bluff| and |Blizzard Bluff - Progressive Ghost:2|"
   },
   {
     "name": "Dragon Mines Time Trial - Unlock N. Tropy",
@@ -2639,12 +2639,12 @@
   {
     "name": "Dragon Mines Time Trial - Beat N. Tropy",
     "category": ["Track - Dragon Mines", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Dragon Mines| and |Dragon Mines - N. Tropy|"
+    "requires": "|Dragon Mines| and |Dragon Mines - Progressive Ghost:1|"
   },
   {
     "name": "Dragon Mines Time Trial - Beat N. Oxide",
     "category": ["Track - Dragon Mines", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Dragon Mines| and |Dragon Mines - N. Tropy| and |Dragon Mines - N. Oxide|"
+    "requires": "|Dragon Mines| and |Dragon Mines - Progressive Ghost:2|"
   },
   {
     "name": "Polar Pass Time Trial - Unlock N. Tropy",
@@ -2654,12 +2654,12 @@
   {
     "name": "Polar Pass Time Trial - Beat N. Tropy",
     "category": ["Track - Polar Pass", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Polar Pass| and |Polar Pass - N. Tropy|"
+    "requires": "|Polar Pass| and |Polar Pass - Progressive Ghost:1|"
   },
   {
     "name": "Polar Pass Time Trial - Beat N. Oxide",
     "category": ["Track - Polar Pass", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Polar Pass| and |Polar Pass - N. Tropy| and |Polar Pass - N. Oxide|"
+    "requires": "|Polar Pass| and |Polar Pass - Progressive Ghost:2|"
   },
   {
     "name": "Tiny Arena Time Trial - Unlock N. Tropy",
@@ -2669,12 +2669,12 @@
   {
     "name": "Tiny Arena Time Trial - Beat N. Tropy",
     "category": ["Track - Tiny Arena", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Tiny Arena| and |Tiny Arena - N. Tropy|"
+    "requires": "|Tiny Arena| and |Tiny Arena - Progressive Ghost:1|"
   },
   {
     "name": "Tiny Arena Time Trial - Beat N. Oxide",
     "category": ["Track - Tiny Arena", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Tiny Arena| and |Tiny Arena - N. Tropy| and |Tiny Arena - N. Oxide|"
+    "requires": "|Tiny Arena| and |Tiny Arena - Progressive Ghost:2|"
   },
   {
     "name": "N. Gin Labs Time Trial - Unlock N. Tropy",
@@ -2684,12 +2684,12 @@
   {
     "name": "N. Gin Labs Time Trial - Beat N. Tropy",
     "category": ["Track - N. Gin Labs", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|N. Gin Labs| and |N. Gin Labs - N. Tropy|"
+    "requires": "|N. Gin Labs| and |N. Gin Labs - Progressive Ghost:1|"
   },
   {
     "name": "N. Gin Labs Time Trial - Beat N. Oxide",
     "category": ["Track - N. Gin Labs", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|N. Gin Labs| and |N. Gin Labs - N. Tropy| and |N. Gin Labs - N. Oxide|"
+    "requires": "|N. Gin Labs| and |N. Gin Labs - Progressive Ghost:2|"
   },
   {
     "name": "Cortex Castle Time Trial - Unlock N. Tropy",
@@ -2699,12 +2699,12 @@
   {
     "name": "Cortex Castle Time Trial - Beat N. Tropy",
     "category": ["Track - Cortex Castle", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Cortex Castle| and |Cortex Castle - N. Tropy|"
+    "requires": "|Cortex Castle| and |Cortex Castle - Progressive Ghost:1|"
   },
   {
     "name": "Cortex Castle Time Trial - Beat N. Oxide",
     "category": ["Track - Cortex Castle", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Cortex Castle| and |Cortex Castle - N. Tropy| and |Cortex Castle - N. Oxide|"
+    "requires": "|Cortex Castle| and |Cortex Castle - Progressive Ghost:2|"
   },
   {
     "name": "Hot Air Skyway Time Trial - Unlock N. Tropy",
@@ -2714,12 +2714,12 @@
   {
     "name": "Hot Air Skyway Time Trial - Beat N. Tropy",
     "category": ["Track - Hot Air Skyway", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Hot Air Skyway| and |Hot Air Skyway - N. Tropy|"
+    "requires": "|Hot Air Skyway| and |Hot Air Skyway - Progressive Ghost:1|"
   },
   {
     "name": "Hot Air Skyway Time Trial - Beat N. Oxide",
     "category": ["Track - Hot Air Skyway", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Hot Air Skyway| and |Hot Air Skyway - N. Tropy| and |Hot Air Skyway - N. Oxide|"
+    "requires": "|Hot Air Skyway| and |Hot Air Skyway - Progressive Ghost:2|"
   },
   {
     "name": "Oxide Station Time Trial - Unlock N. Tropy",
@@ -2729,12 +2729,12 @@
   {
     "name": "Oxide Station Time Trial - Beat N. Tropy",
     "category": ["Track - Oxide Station", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Oxide Station| and |Oxide Station - N. Tropy|"
+    "requires": "|Oxide Station| and |Oxide Station - Progressive Ghost:1|"
   },
   {
     "name": "Oxide Station Time Trial - Beat N. Oxide",
     "category": ["Track - Oxide Station", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Oxide Station| and |Oxide Station - N. Tropy| and |Oxide Station - N. Oxide|"
+    "requires": "|Oxide Station| and |Oxide Station - Progressive Ghost:2|"
   },
   {
     "name": "Slide Coliseum Time Trial - Unlock N. Tropy",
@@ -2744,12 +2744,12 @@
   {
     "name": "Slide Coliseum Time Trial - Beat N. Tropy",
     "category": ["Track - Slide Coliseum", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Slide Coliseum| and |Slide Coliseum - N. Tropy|"
+    "requires": "|Slide Coliseum| and |Slide Coliseum - Progressive Ghost:1|"
   },
   {
     "name": "Slide Coliseum Time Trial - Beat N. Oxide",
     "category": ["Track - Slide Coliseum", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Slide Coliseum| and |Slide Coliseum - N. Tropy| and |Slide Coliseum - N. Oxide|"
+    "requires": "|Slide Coliseum| and |Slide Coliseum - Progressive Ghost:2|"
   },
   {
     "name": "Turbo Track Time Trial - Unlock N. Tropy",
@@ -2759,11 +2759,11 @@
   {
     "name": "Turbo Track Time Trial - Beat N. Tropy",
     "category": ["Track - Turbo Track", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Turbo Track| and |Turbo Track - N. Tropy|"
+    "requires": "|Turbo Track| and |Turbo Track - Progressive Ghost:1|"
   },
   {
     "name": "Turbo Track Time Trial - Beat N. Oxide",
     "category": ["Track - Turbo Track", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Turbo Track| and |Turbo Track - N. Tropy| and |Turbo Track - N. Oxide|"
+    "requires": "|Turbo Track| and |Turbo Track - Progressive Ghost:2|"
   }
 ]
