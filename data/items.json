@@ -321,7 +321,7 @@
 		"count":1,
 		"name": "Oxide Station",
 		"category": ["Tracks", "Classic"],
-		"progression": true
+		"progression": true 
 	},
 	{
 		"count":1,
