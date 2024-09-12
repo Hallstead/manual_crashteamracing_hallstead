@@ -111,7 +111,17 @@ class percentage_trophies(Range):
     range_start = 1
     range_end = 100
     default = 80
-
+    
+class Character_Rando(Choice):
+    """
+    Characters are randomized based on which racer you want to be. Disabling this allows all characters to be played.
+    """
+    display_name = "Randomize Characters"
+    option_false = 0
+    option_starter = 1
+    option_unlockable = 2
+    default = 1
+    
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["percentage_trophies"] = percentage_trophies
@@ -121,6 +131,7 @@ def before_options_defined(options: dict) -> dict:
     options["cups_unlock_method"] = cups_unlock_method
     options["include_time_trial"] = include_time_trial
     options["included_ghosts"] = included_ghosts
+    options["character_rando"] = Character_Rando
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

@@ -1,7 +1,4 @@
 {
-    "((~Start~))": {
-        "hidden": false
-    },
     "Arcade": {
         "hidden": true
     },
@@ -61,5 +58,11 @@
     },
     "N. Oxide": {
         "hidden": true
+    },
+    "Characters": {
+        "hidden": false
+	},
+    "Unloackable": {
+        "hidden": false
     }
 }

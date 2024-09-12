@@ -2,4 +2,8 @@
   "game": "CrashTeamRacing",
   "creator": "Hallstead",
   "filler_item_name": "WOAH"
+  "starting_items": [
+    {"item_categories": ["Tracks"]}
+	{"item_categories": ["Characters"]}
+  ]
 }
