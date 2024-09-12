@@ -1,7 +1,4 @@
 {
-    "((~Start~))": {
-        "hidden": false
-    },
     "Arcade": {
         "hidden": true
     },
@@ -59,7 +56,16 @@
     "N. Tropy": {
         "hidden": true
     },
+    "N. Tropy Loc": {
+        "hidden": true
+    },
     "N. Oxide": {
+        "hidden": true
+    },
+    "Characters": {
+        "hidden": false
+	},
+    "Unlockable": {
         "hidden": true
     }
 }

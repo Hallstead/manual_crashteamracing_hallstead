@@ -18,9 +18,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Crash Cove - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Crash Cove - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -30,9 +36,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Mystery Caves - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Mystery Caves - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -42,9 +54,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Sewer Speedway - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Sewer Speedway - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -54,9 +72,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Roo's Tubes - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Roo's Tubes - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -66,9 +90,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Slide Coliseum - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Slide Coliseum - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -78,9 +108,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Turbo Track - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy", "TTrack"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Turbo Track - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide", "TTrack"],
+		"category": ["Time Trial", "Classic", "N. Oxide", "TTrack"],
 		"progression": true
 	},
 	{
@@ -90,9 +126,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Coco Park - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Coco Park - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -102,9 +144,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Tiger Temple - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Tiger Temple - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -114,9 +162,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Papu's Pyramid - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Papu's Pyramid - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -126,9 +180,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Dingo Canyon - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Dingo Canyon - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -138,9 +198,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Polar Pass - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Polar Pass - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -150,9 +216,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Tiny Arena - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Tiny Arena - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -162,9 +234,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Dragon Mines - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Dragon Mines - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -174,9 +252,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Blizzard Bluff - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Blizzard Bluff - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -186,9 +270,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Hot Air Skyway - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Hot Air Skyway - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -198,9 +288,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Cortex Castle - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Cortex Castle - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -210,9 +306,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "N. Gin Labs - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "N. Gin Labs - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -222,9 +324,15 @@
 		"progression": true
 	},
 	{
+		"count":1,
+		"name": "Oxide Station - N. Tropy",
+		"category": ["Time Trial", "Classic", "N. Tropy"],
+		"progression": true
+	},
+	{
 		"count":2,
 		"name": "Oxide Station - Progressive Ghost",
-		"category": ["Time Trial", "Classic", "N. Tropy", "N. Oxide"],
+		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
@@ -302,43 +410,43 @@
 	{
 		"count":1,
 		"name": "Ripper Roo",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Papu Papu",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Komodo Joe",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Pinstripe",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Fake Crash",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "N. Tropy",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Penta Penguin",
-		"category": ["Characters"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	}
 ]

@@ -1,16 +1,10 @@
 [
-{
-	"name": "Starting Track",
-	"category": ["((~Start~))"],
-	"requires": [],
-	"place_item_category": ["Tracks"]
-},
-{
-	"name": "Goal (All Trophies)",
-	"victory": true,
-	"requires": "|Ultimate Trophy (Victory)|",
-	"category": []
-},
+	{
+		"name": "Goal (All Trophies)",
+		"victory": true,
+		"requires": "|Ultimate Trophy (Victory)|",
+		"category": []
+	},
   {
     "name": "Gather 1 Trophy",
     "requires": "|@Trophies:1|",
@@ -2503,13 +2497,13 @@
   },
   {
     "name": "Crash Cove Time Trial - Beat N. Tropy",
-    "category": ["Track - Crash Cove", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Crash Cove| and |Crash Cove - Progressive Ghost:1|"
+    "category": ["Track - Crash Cove", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Crash Cove| AND (|Crash Cove - N. Tropy| OR |Crash Cove - Progressive Ghost:1|)"
   },
   {
     "name": "Crash Cove Time Trial - Beat N. Oxide",
     "category": ["Track - Crash Cove", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Crash Cove| and |Crash Cove - Progressive Ghost:2|"
+    "requires": "|Crash Cove| AND |Crash Cove - Progressive Ghost:2|"
   },
   {
     "name": "Roo's Tubes Time Trial - Unlock N. Tropy",
@@ -2518,13 +2512,13 @@
   },
   {
     "name": "Roo's Tubes Time Trial - Beat N. Tropy",
-    "category": ["Track - Roo's Tubes", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Roo's Tubes| and |Roo's Tubes - Progressive Ghost:1|"
+    "category": ["Track - Roo's Tubes", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Roo's Tubes| AND (|Roo's Tubes - N. Tropy| OR |Roo's Tubes - Progressive Ghost:1|)"
   },
   {
     "name": "Roo's Tubes Time Trial - Beat N. Oxide",
     "category": ["Track - Roo's Tubes", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Roo's Tubes| and |Roo's Tubes - Progressive Ghost:2|"
+    "requires": "|Roo's Tubes| AND |Roo's Tubes - Progressive Ghost:2|"
   },
   {
     "name": "Mystery Caves Time Trial - Unlock N. Tropy",
@@ -2533,13 +2527,13 @@
   },
   {
     "name": "Mystery Caves Time Trial - Beat N. Tropy",
-    "category": ["Track - Mystery Caves", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Mystery Caves| and |Mystery Caves - Progressive Ghost:1|"
+    "category": ["Track - Mystery Caves", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Mystery Caves| AND (|Mystery Caves - N. Tropy| OR |Mystery Caves - Progressive Ghost:1|)"
   },
   {
     "name": "Mystery Caves Time Trial - Beat N. Oxide",
     "category": ["Track - Mystery Caves", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Mystery Caves| and |Mystery Caves - Progressive Ghost:2|"
+    "requires": "|Mystery Caves| AND |Mystery Caves - Progressive Ghost:2|"
   },
   {
     "name": "Sewer Speedway Time Trial - Unlock N. Tropy",
@@ -2548,13 +2542,13 @@
   },
   {
     "name": "Sewer Speedway Time Trial - Beat N. Tropy",
-    "category": ["Track - Sewer Speedway", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Sewer Speedway| and |Sewer Speedway - Progressive Ghost:1|"
+    "category": ["Track - Sewer Speedway", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Sewer Speedway| AND (|Sewer Speedway - N. Tropy| OR |Sewer Speedway - Progressive Ghost:1|)"
   },
   {
     "name": "Sewer Speedway Time Trial - Beat N. Oxide",
     "category": ["Track - Sewer Speedway", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Sewer Speedway| and |Sewer Speedway - Progressive Ghost:2|"
+    "requires": "|Sewer Speedway| AND |Sewer Speedway - Progressive Ghost:2|"
   },
   {
     "name": "Coco Park Time Trial - Unlock N. Tropy",
@@ -2563,13 +2557,13 @@
   },
   {
     "name": "Coco Park Time Trial - Beat N. Tropy",
-    "category": ["Track - Coco Park", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Coco Park| and |Coco Park - Progressive Ghost:1|"
+    "category": ["Track - Coco Park", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Coco Park| AND (|Coco Park - N. Tropy| OR |Coco Park - Progressive Ghost:1|)"
   },
   {
     "name": "Coco Park Time Trial - Beat N. Oxide",
     "category": ["Track - Coco Park", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Coco Park| and |Coco Park - Progressive Ghost:2|"
+    "requires": "|Coco Park| AND |Coco Park - Progressive Ghost:2|"
   },
   {
     "name": "Tiger Temple Time Trial - Unlock N. Tropy",
@@ -2578,13 +2572,13 @@
   },
   {
     "name": "Tiger Temple Time Trial - Beat N. Tropy",
-    "category": ["Track - Tiger Temple", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Tiger Temple| and |Tiger Temple - Progressive Ghost:1|"
+    "category": ["Track - Tiger Temple", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Tiger Temple| AND (|Tiger Temple - N. Tropy| OR |Tiger Temple - Progressive Ghost:1|)"
   },
   {
     "name": "Tiger Temple Time Trial - Beat N. Oxide",
     "category": ["Track - Tiger Temple", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Tiger Temple| and |Tiger Temple - Progressive Ghost:2|"
+    "requires": "|Tiger Temple| AND |Tiger Temple - Progressive Ghost:2|"
   },
   {
     "name": "Papu's Pyramid Time Trial - Unlock N. Tropy",
@@ -2593,13 +2587,13 @@
   },
   {
     "name": "Papu's Pyramid Time Trial - Beat N. Tropy",
-    "category": ["Track - Papu's Pyramid", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Papu's Pyramid| and |Papu's Pyramid - Progressive Ghost:1|"
+    "category": ["Track - Papu's Pyramid", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Papu's Pyramid| AND (|Papu's Pyramid - N. Tropy| OR |Papu's Pyramid - Progressive Ghost:1|)"
   },
   {
     "name": "Papu's Pyramid Time Trial - Beat N. Oxide",
     "category": ["Track - Papu's Pyramid", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Papu's Pyramid| and |Papu's Pyramid - Progressive Ghost:2|"
+    "requires": "|Papu's Pyramid| AND |Papu's Pyramid - Progressive Ghost:2|"
   },
   {
     "name": "Dingo Canyon Time Trial - Unlock N. Tropy",
@@ -2608,13 +2602,13 @@
   },
   {
     "name": "Dingo Canyon Time Trial - Beat N. Tropy",
-    "category": ["Track - Dingo Canyon", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Dingo Canyon| and |Dingo Canyon - Progressive Ghost:1|"
+    "category": ["Track - Dingo Canyon", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Dingo Canyon| AND (|Dingo Canyon - N. Tropy| OR |Dingo Canyon - Progressive Ghost:1|)"
   },
   {
     "name": "Dingo Canyon Time Trial - Beat N. Oxide",
     "category": ["Track - Dingo Canyon", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Dingo Canyon| and |Dingo Canyon - Progressive Ghost:2|"
+    "requires": "|Dingo Canyon| AND |Dingo Canyon - Progressive Ghost:2|"
   },
   {
     "name": "Blizzard Bluff Time Trial - Unlock N. Tropy",
@@ -2623,13 +2617,13 @@
   },
   {
     "name": "Blizzard Bluff Time Trial - Beat N. Tropy",
-    "category": ["Track - Blizzard Bluff", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Blizzard Bluff| and |Blizzard Bluff - Progressive Ghost:1|"
+    "category": ["Track - Blizzard Bluff", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Blizzard Bluff| AND (|Blizzard Bluff - N. Tropy| OR |Blizzard Bluff - Progressive Ghost:1|)"
   },
   {
     "name": "Blizzard Bluff Time Trial - Beat N. Oxide",
     "category": ["Track - Blizzard Bluff", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Blizzard Bluff| and |Blizzard Bluff - Progressive Ghost:2|"
+    "requires": "|Blizzard Bluff| AND |Blizzard Bluff - Progressive Ghost:2|"
   },
   {
     "name": "Dragon Mines Time Trial - Unlock N. Tropy",
@@ -2638,13 +2632,13 @@
   },
   {
     "name": "Dragon Mines Time Trial - Beat N. Tropy",
-    "category": ["Track - Dragon Mines", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Dragon Mines| and |Dragon Mines - Progressive Ghost:1|"
+    "category": ["Track - Dragon Mines", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Dragon Mines| AND (|Dragon Mines - N. Tropy| OR |Dragon Mines - Progressive Ghost:1|)"
   },
   {
     "name": "Dragon Mines Time Trial - Beat N. Oxide",
     "category": ["Track - Dragon Mines", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Dragon Mines| and |Dragon Mines - Progressive Ghost:2|"
+    "requires": "|Dragon Mines| AND |Dragon Mines - Progressive Ghost:2|"
   },
   {
     "name": "Polar Pass Time Trial - Unlock N. Tropy",
@@ -2653,13 +2647,13 @@
   },
   {
     "name": "Polar Pass Time Trial - Beat N. Tropy",
-    "category": ["Track - Polar Pass", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Polar Pass| and |Polar Pass - Progressive Ghost:1|"
+    "category": ["Track - Polar Pass", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Polar Pass| AND (|Polar Pass - N. Tropy| OR |Polar Pass - Progressive Ghost:1|)"
   },
   {
     "name": "Polar Pass Time Trial - Beat N. Oxide",
     "category": ["Track - Polar Pass", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Polar Pass| and |Polar Pass - Progressive Ghost:2|"
+    "requires": "|Polar Pass| AND |Polar Pass - Progressive Ghost:2|"
   },
   {
     "name": "Tiny Arena Time Trial - Unlock N. Tropy",
@@ -2668,13 +2662,13 @@
   },
   {
     "name": "Tiny Arena Time Trial - Beat N. Tropy",
-    "category": ["Track - Tiny Arena", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Tiny Arena| and |Tiny Arena - Progressive Ghost:1|"
+    "category": ["Track - Tiny Arena", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Tiny Arena| AND (|Tiny Arena - N. Tropy| OR |Tiny Arena - Progressive Ghost:1|)"
   },
   {
     "name": "Tiny Arena Time Trial - Beat N. Oxide",
     "category": ["Track - Tiny Arena", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Tiny Arena| and |Tiny Arena - Progressive Ghost:2|"
+    "requires": "|Tiny Arena| AND |Tiny Arena - Progressive Ghost:2|"
   },
   {
     "name": "N. Gin Labs Time Trial - Unlock N. Tropy",
@@ -2683,13 +2677,13 @@
   },
   {
     "name": "N. Gin Labs Time Trial - Beat N. Tropy",
-    "category": ["Track - N. Gin Labs", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|N. Gin Labs| and |N. Gin Labs - Progressive Ghost:1|"
+    "category": ["Track - N. Gin Labs", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|N. Gin Labs| AND (|N. Gin Labs - N. Tropy| OR |N. Gin Labs - Progressive Ghost:1|)"
   },
   {
     "name": "N. Gin Labs Time Trial - Beat N. Oxide",
     "category": ["Track - N. Gin Labs", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|N. Gin Labs| and |N. Gin Labs - Progressive Ghost:2|"
+    "requires": "|N. Gin Labs| AND |N. Gin Labs - Progressive Ghost:2|"
   },
   {
     "name": "Cortex Castle Time Trial - Unlock N. Tropy",
@@ -2698,13 +2692,13 @@
   },
   {
     "name": "Cortex Castle Time Trial - Beat N. Tropy",
-    "category": ["Track - Cortex Castle", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Cortex Castle| and |Cortex Castle - Progressive Ghost:1|"
+    "category": ["Track - Cortex Castle", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Cortex Castle| AND (|Cortex Castle - N. Tropy| OR |Cortex Castle - Progressive Ghost:1|)"
   },
   {
     "name": "Cortex Castle Time Trial - Beat N. Oxide",
     "category": ["Track - Cortex Castle", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Cortex Castle| and |Cortex Castle - Progressive Ghost:2|"
+    "requires": "|Cortex Castle| AND |Cortex Castle - Progressive Ghost:2|"
   },
   {
     "name": "Hot Air Skyway Time Trial - Unlock N. Tropy",
@@ -2713,13 +2707,13 @@
   },
   {
     "name": "Hot Air Skyway Time Trial - Beat N. Tropy",
-    "category": ["Track - Hot Air Skyway", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Hot Air Skyway| and |Hot Air Skyway - Progressive Ghost:1|"
+    "category": ["Track - Hot Air Skyway", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Hot Air Skyway| AND (|Hot Air Skyway - N. Tropy| OR |Hot Air Skyway - Progressive Ghost:1|)"
   },
   {
     "name": "Hot Air Skyway Time Trial - Beat N. Oxide",
     "category": ["Track - Hot Air Skyway", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Hot Air Skyway| and |Hot Air Skyway - Progressive Ghost:2|"
+    "requires": "|Hot Air Skyway| AND |Hot Air Skyway - Progressive Ghost:2|"
   },
   {
     "name": "Oxide Station Time Trial - Unlock N. Tropy",
@@ -2728,13 +2722,13 @@
   },
   {
     "name": "Oxide Station Time Trial - Beat N. Tropy",
-    "category": ["Track - Oxide Station", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Oxide Station| and |Oxide Station - Progressive Ghost:1|"
+    "category": ["Track - Oxide Station", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Oxide Station| AND (|Oxide Station - N. Tropy| OR |Oxide Station - Progressive Ghost:1|)"
   },
   {
     "name": "Oxide Station Time Trial - Beat N. Oxide",
     "category": ["Track - Oxide Station", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Oxide Station| and |Oxide Station - Progressive Ghost:2|"
+    "requires": "|Oxide Station| AND |Oxide Station - Progressive Ghost:2|"
   },
   {
     "name": "Slide Coliseum Time Trial - Unlock N. Tropy",
@@ -2743,13 +2737,13 @@
   },
   {
     "name": "Slide Coliseum Time Trial - Beat N. Tropy",
-    "category": ["Track - Slide Coliseum", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Slide Coliseum| and |Slide Coliseum - Progressive Ghost:1|"
+    "category": ["Track - Slide Coliseum", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Slide Coliseum| AND (|Slide Coliseum - N. Tropy| OR |Slide Coliseum - Progressive Ghost:1|)"
   },
   {
     "name": "Slide Coliseum Time Trial - Beat N. Oxide",
     "category": ["Track - Slide Coliseum", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Slide Coliseum| and |Slide Coliseum - Progressive Ghost:2|"
+    "requires": "|Slide Coliseum| AND |Slide Coliseum - Progressive Ghost:2|"
   },
   {
     "name": "Turbo Track Time Trial - Unlock N. Tropy",
@@ -2758,12 +2752,12 @@
   },
   {
     "name": "Turbo Track Time Trial - Beat N. Tropy",
-    "category": ["Track - Turbo Track", "Classic", "Time Trial_option", "N. Tropy"],
-    "requires": "|Turbo Track| and |Turbo Track - Progressive Ghost:1|"
+    "category": ["Track - Turbo Track", "Classic", "Time Trial_option", "N. Tropy Loc"],
+    "requires": "|Turbo Track| AND (|Turbo Track - N. Tropy| OR |Turbo Track - Progressive Ghost:1|)"
   },
   {
     "name": "Turbo Track Time Trial - Beat N. Oxide",
     "category": ["Track - Turbo Track", "Classic", "Time Trial_option", "N. Oxide"],
-    "requires": "|Turbo Track| and |Turbo Track - Progressive Ghost:2|"
+    "requires": "|Turbo Track| AND |Turbo Track - Progressive Ghost:2|"
   }
 ]
