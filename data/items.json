@@ -410,43 +410,43 @@
 	{
 		"count":1,
 		"name": "Ripper Roo",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Papu Papu",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Komodo Joe",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Pinstripe",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Fake Crash",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "N. Tropy",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	},
 	{
 		"count":1,
 		"name": "Penta Penguin",
-		"category": ["Unlockable"],
+		"category": ["Characters", "Unlockable"],
 		"filler": true
 	}
 ]
