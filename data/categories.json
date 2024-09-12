@@ -62,7 +62,7 @@
     "Characters": {
         "hidden": false
 	},
-    "Unloackable": {
-        "hidden": false
+    "Unlockable": {
+        "hidden": true
     }
 }
