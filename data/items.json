@@ -363,90 +363,90 @@
 		"count":1,
 		"name": "Crash Bandicoot",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Dr. Neo Cortex",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Tiny Tiger",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Coco Bandicoot",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Dr. N. Gin",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Dingodile",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Polar",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Pura",
 		"category": ["Characters"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Ripper Roo",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Papu Papu",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Komodo Joe",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Pinstripe",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Fake Crash",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "N. Tropy",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	},
 	{
 		"count":1,
 		"name": "Penta Penguin",
 		"category": ["Characters", "Unlockable"],
-		"filler": true
+		"useful": true
 	}
 ]
