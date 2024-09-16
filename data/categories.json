@@ -67,5 +67,26 @@
 	},
     "Unlockable": {
         "hidden": true
+    },
+    "Wumpa Cup Tracks": {
+        "hidden": true
+    },
+    "Crystal Cup Tracks": {
+        "hidden": true
+    },
+    "Nitro Cup Tracks": {
+        "hidden": true
+    },
+    "Crash Cup Tracks": {
+        "hidden": true
+    },
+    "Beginner": {
+        "hidden": true
+    },
+    "Intermediate": {
+        "hidden": true
+    },
+    "Advanced": {
+        "hidden": true
     }
 }
