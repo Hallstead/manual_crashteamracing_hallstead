@@ -1,11 +1,5 @@
 [
 	{
-		"count":1,
-		"name": "Ultimate Trophy (Victory)",
-		"category": ["Win_Condition"],
-		"progression": true
-	},
-	{
 		"count":300,
 		"name": "Trophy",
 		"category": ["Trophies", "Classic"],
