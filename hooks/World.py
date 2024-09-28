@@ -65,8 +65,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
     
     # Get the victory item out of the pool:
-    victory_item = next(i for i in item_pool if i.name == "Ultimate Trophy (Victory)")
-    item_pool.remove(victory_item)
+    # victory_item = next(i for i in item_pool if i.name == "Ultimate Trophy (Victory)")
+    # item_pool.remove(victory_item)
     
     # Get Trophy Information
     tracks = 17
@@ -92,13 +92,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     percent = get_option_value(multiworld, player, "percentage_trophies") / 100
     trophies = round(max_trophies * percent)
 
-    bad_trophies = 300-max_trophies
+    bad_trophies = 172-max_trophies
     for i in range(bad_trophies):
         itemNamesToRemove.append("Trophy")
 
     # Get the victory location and place the victory item there
     victory_loc_list = ["Gather 1 Trophy"]  # A list of all the victory location names in order
-    for i in range(2,300):
+    for i in range(2,172):
         victory_loc_list.append(f"Gather {i} Trophies")
     
     for i in range(len(victory_loc_list)-1):
@@ -109,7 +109,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     #victory_id = get_option_value(multiworld, player, "victory_condition") # This needs to be added in the hooks/Options.py file
     victory_location_name = victory_loc_list[victory_id]
     victory_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_location_name)
-    victory_location.place_locked_item(victory_item)
+    # victory_location.place_locked_item(victory_item)
     
     # Remove the extra victory locations
     for region in multiworld.regions:
