@@ -12,11 +12,10 @@ class FillerTrapPercent(Range):
 
 manual_options = before_options_defined({})
 
-if len(victory_names) > 1:
-    pass
-    goal = {'option_' + v: i for i, v in enumerate(victory_names)}
-    manual_options['goal'] = type('goal', (Choice,), goal)
-    manual_options['goal'].__doc__ = "Choose your victory condition."
+#if len(victory_names) > 1:
+    #goal = {'option_' + v: i for i, v in enumerate(victory_names)}
+    #manual_options['goal'] = type('goal', (Choice,), goal)
+    #manual_options['goal'].__doc__ = "Choose your victory condition."
 
 if any(item.get('trap') for item in item_table):
     manual_options["filler_traps"] = FillerTrapPercent
