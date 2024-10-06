@@ -92,13 +92,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     percent = get_option_value(multiworld, player, "percentage_trophies") / 100
     trophies = round(max_trophies * percent)
 
-    bad_trophies = 300-max_trophies
+    bad_trophies = 173-max_trophies
     for i in range(bad_trophies):
         itemNamesToRemove.append("Trophy")
 
     # Get the victory location and place the victory item there
     victory_loc_list = ["Gather 1 Trophy"]  # A list of all the victory location names in order
-    for i in range(2,300):
+    for i in range(2,173):
         victory_loc_list.append(f"Gather {i} Trophies")
     
     for i in range(len(victory_loc_list)-1):
