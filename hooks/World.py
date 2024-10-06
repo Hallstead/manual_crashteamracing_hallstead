@@ -107,7 +107,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             break
 
     #victory_id = get_option_value(multiworld, player, "victory_condition") # This needs to be added in the hooks/Options.py file
-    #victory_location_name = victory_loc_list[victory_id]
+    victory_location_name = victory_loc_list[victory_id]
     #victory_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_location_name)
     # victory_location.place_locked_item(victory_item)
     
