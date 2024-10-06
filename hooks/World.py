@@ -114,7 +114,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         difficulties += 1
 
     max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3)) + tt
-    
+
     # Remove the excess Trophy items
     bad_trophies = 173-max_trophies
     for i in range(bad_trophies):
