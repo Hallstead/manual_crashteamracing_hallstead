@@ -33,7 +33,38 @@ import logging
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
-    pass
+    # Get Trophy Information
+    tracks = 17
+    if is_category_enabled(multiworld, player, "Track - Turbo Track") is True:
+        tracks += 1
+    tt = 0
+    if is_category_enabled(multiworld, player, "Time Trial") is True:
+        tt = tracks
+    if is_category_enabled(multiworld, player, "Cups") is True:
+        tracks += 4
+    
+    difficulties = 0
+    if is_category_enabled(multiworld, player, "Easy") is True:
+        difficulties += 1
+    if is_category_enabled(multiworld, player, "Medium") is True:
+        difficulties += 1
+    if is_category_enabled(multiworld, player, "Hard") is True:
+        difficulties += 1
+
+    max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3)) + tt
+    percent = get_option_value(multiworld, player, "percentage_trophies") / 100
+    req_trophies = round(max_trophies * percent)
+    if req_trophies < 1:
+        req_trophies = 1
+
+    # Get goal location index
+    if req_trophies == 1:
+        goal_index = world.victory_names.index("Gather 1 Trophy")
+    else:
+        goal_index = world.victory_names.index(f"Gather {req_trophies} Trophies")
+
+    # Set goal location
+    world.options.goal.value = goal_index
 
 # Called after regions and locations are created, in case you want to see or modify that information. Victory location is included.
 def after_create_regions(world: World, multiworld: MultiWorld, player: int):
@@ -64,14 +95,8 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Because multiple copies of an item can exist, you need to add an item name
     # to the list multiple times if you want to remove multiple copies of it.
     
-    # Get the victory item out of the pool:
-    # victory_item = next(i for i in item_pool if i.name == "Ultimate Trophy (Victory)")
-    # item_pool.remove(victory_item)
-    
     # Get Trophy Information
     tracks = 17
-    #if get_option_value(multiworld, player, "include_single_race") == 1:
-    #    tracks += 17
     if is_category_enabled(multiworld, player, "Track - Turbo Track") is True:
         tracks += 1
     tt = 0
@@ -89,35 +114,12 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         difficulties += 1
 
     max_trophies = round((tracks * 3 * difficulties) - tracks - (difficulties * tracks / 3)) + tt
-    percent = get_option_value(multiworld, player, "percentage_trophies") / 100
-    trophies = round(max_trophies * percent)
-
-    bad_trophies = 172-max_trophies
+    
+    # Remove the excess Trophy items
+    bad_trophies = 173-max_trophies
     for i in range(bad_trophies):
         itemNamesToRemove.append("Trophy")
 
-    # Get the victory location and place the victory item there
-    victory_loc_list = ["Gather 1 Trophy"]  # A list of all the victory location names in order
-    for i in range(2,172):
-        victory_loc_list.append(f"Gather {i} Trophies")
-    
-    for i in range(len(victory_loc_list)-1):
-        if str(trophies) in victory_loc_list[i]:
-            victory_id = i
-            break
-
-    #victory_id = get_option_value(multiworld, player, "victory_condition") # This needs to be added in the hooks/Options.py file
-    victory_location_name = victory_loc_list[victory_id]
-    #victory_location = next(l for l in multiworld.get_unfilled_locations(player=player) if l.name == victory_location_name)
-    # victory_location.place_locked_item(victory_item)
-    
-    # Remove the extra victory locations
-    for region in multiworld.regions:
-        if region.player == player:
-            for location in list(region.locations):
-                if location.name in victory_loc_list and location.name != victory_location_name:
-                    region.locations.remove(location)
-    
     for itemName in itemNamesToRemove:
         item = next(i for i in item_pool if i.name == itemName)
         item_pool.remove(item)
