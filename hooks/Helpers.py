@@ -47,14 +47,31 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
             return False
     if category_name == "N. Tropy":
         if Helpers.get_option_value(multiworld, player, "include_time_trial") == 1:
+            if Helpers.get_option_value(multiworld, player, "included_ghosts") == 1:
+                return True
+        return False
+    if category_name == "N. Tropy Loc":
+        if Helpers.get_option_value(multiworld, player, "include_time_trial") == 1:
             if Helpers.get_option_value(multiworld, player, "included_ghosts") >= 1:
                 return True
         return False
     if category_name == "N. Oxide":
         if Helpers.get_option_value(multiworld, player, "include_time_trial") == 1:
-            if Helpers.get_option_value(multiworld, player, "included_ghosts") >= 2:
+            if Helpers.get_option_value(multiworld, player, "included_ghosts") == 2:
                 return True
         return False
+    if category_name == "Characters" or category_name == "Unlockable":
+        selection = Helpers.get_option_value(multiworld, player, "character_rando")
+        if category_name == "Characters":
+            if selection == 1 or selection == 2:
+                return True
+            else:
+                return False
+        if category_name == "Unlockable":
+            if selection == 2:
+                return True
+            else:
+                return False
             
     return None
 

@@ -1,11 +1,5 @@
 [
 	{
-		"count":1,
-		"name": "Ultimate Trophy (Victory)",
-		"category": ["Win_Condition"],
-		"progression": true
-	},
-	{
 		"count":173,
 		"name": "Trophy",
 		"category": ["Trophies", "Classic"],
@@ -14,7 +8,7 @@
 	{
 		"count":1,
 		"name": "Crash Cove",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Wumpa Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -24,15 +18,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Crash Cove - N. Oxide",
+		"count":2,
+		"name": "Crash Cove - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Mystery Caves",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Nitro Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -42,15 +36,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Mystery Caves - N. Oxide",
+		"count":2,
+		"name": "Mystery Caves - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Sewer Speedway",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crystal Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -60,15 +54,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Sewer Speedway - N. Oxide",
+		"count":2,
+		"name": "Sewer Speedway - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Roo's Tubes",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crystal Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -78,15 +72,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Roo's Tubes - N. Oxide",
+		"count":2,
+		"name": "Roo's Tubes - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Slide Coliseum",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crash Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -96,8 +90,8 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Slide Coliseum - N. Oxide",
+		"count":2,
+		"name": "Slide Coliseum - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
@@ -114,15 +108,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Turbo Track - N. Oxide",
+		"count":2,
+		"name": "Turbo Track - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide", "TTrack"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Coco Park",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Wumpa Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -132,15 +126,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Coco Park - N. Oxide",
+		"count":2,
+		"name": "Coco Park - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tiger Temple",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Wumpa Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -150,15 +144,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Tiger Temple - N. Oxide",
+		"count":2,
+		"name": "Tiger Temple - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Papu's Pyramid",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Nitro Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -168,15 +162,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Papu's Pyramid - N. Oxide",
+		"count":2,
+		"name": "Papu's Pyramid - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Dingo Canyon",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crystal Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -186,15 +180,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Dingo Canyon - N. Oxide",
+		"count":2,
+		"name": "Dingo Canyon - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Polar Pass",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crash Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -204,15 +198,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Polar Pass - N. Oxide",
+		"count":2,
+		"name": "Polar Pass - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Tiny Arena",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Nitro Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -222,15 +216,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Tiny Arena - N. Oxide",
+		"count":2,
+		"name": "Tiny Arena - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Dragon Mines",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crystal Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -240,15 +234,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Dragon Mines - N. Oxide",
+		"count":2,
+		"name": "Dragon Mines - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Blizzard Bluff",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Wumpa Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -258,15 +252,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Blizzard Bluff - N. Oxide",
+		"count":2,
+		"name": "Blizzard Bluff - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Hot Air Skyway",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crash Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -276,15 +270,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Hot Air Skyway - N. Oxide",
+		"count":2,
+		"name": "Hot Air Skyway - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Cortex Castle",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Nitro Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -294,15 +288,15 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Cortex Castle - N. Oxide",
+		"count":2,
+		"name": "Cortex Castle - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "N. Gin Labs",
-		"category": ["Tracks", "Classic"],
+		"category": ["Tracks", "Classic", "Crash Cup Tracks"],
 		"progression": true
 	},
 	{
@@ -312,8 +306,8 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "N. Gin Labs - N. Oxide",
+		"count":2,
+		"name": "N. Gin Labs - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
@@ -330,8 +324,8 @@
 		"progression": true
 	},
 	{
-		"count":1,
-		"name": "Oxide Station - N. Oxide",
+		"count":2,
+		"name": "Oxide Station - Progressive Ghost",
 		"category": ["Time Trial", "Classic", "N. Oxide"],
 		"progression": true
 	},
@@ -358,5 +352,95 @@
 		"name": "Crystal Cup",
 		"category": ["Cups", "Cups Items", "Classic"],
 		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crash Bandicoot",
+		"category": ["Characters", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dr. Neo Cortex",
+		"category": ["Characters", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Tiny Tiger",
+		"category": ["Characters", "Advanced"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Coco Bandicoot",
+		"category": ["Characters", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dr. N. Gin",
+		"category": ["Characters", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Dingodile",
+		"category": ["Characters", "Advanced"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Polar",
+		"category": ["Characters", "Beginner"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pura",
+		"category": ["Characters", "Beginner"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Ripper Roo",
+		"category": ["Characters", "Unlockable", "Beginner"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Papu Papu",
+		"category": ["Characters", "Unlockable", "Advanced"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Komodo Joe",
+		"category": ["Characters", "Unlockable", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Pinstripe",
+		"category": ["Characters", "Unlockable", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Fake Crash",
+		"category": ["Characters", "Unlockable", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "N. Tropy",
+		"category": ["Characters", "Unlockable", "Intermediate"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Penta Penguin",
+		"category": ["Characters", "Unlockable"],
+		"useful": true
 	}
 ]
